@@ -1,0 +1,1095 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="ie eq8 lt9 lt10 "><![endif]-->
+<!--[if IE 9]><html class="ie eq9 lt10 "><![endif]-->
+<!--[if IE 10]><html class="ie eq10 "><![endif]-->
+<!--[if gt IE 10]><html class="ie "><![endif]-->
+<!--[if !IE]><!--><html><!--<![endif]-->
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
+<meta charset="ISO-8859-1" />
+<title>LaunchDisplay v1.5 by OctopusProteins on DeviantArt</title>
+<link rel="dns-prefetch" href="https://www.da-ads.com" />
+<meta http-equiv="x-dns-prefetch-control" content="off" />
+<meta name="google-site-verification" content="KngEmyIxlDeMqye_fFjds42cpqUvHPJ6qb85skoCaDc" />
+<meta property="fb:page_id" content="6452638289" />
+<link rel="publisher" href="https://plus.google.com/108424020240415471405" />
+<meta http-equiv="content-language" content="en">
+<meta name="description" content="This is a skin to display the next 5 launches as provided by the LaunchLibrary API. www.launchlibrary.net v1.5------------------------------------------... LaunchDisplay v1.5">
+<meta name="keywords" content="Art, Digital Art, Photography, Traditional Art, Community Art, Contemporary Art, Modern Art, Skins, Themes, Poetry, Prose, Applications, Wallpapers, Online Art, customization, skins, sysmonitor, rainmeter">
+<meta name="classification" content="Art">
+<meta name="copyright" content="Copyright 2018 deviantART">
+<meta name="apple-itunes-app" content="app-id=925219396, app-argument=DeviantArt://deviation/709EA68C-04A0-69BB-36D4-8B562A4DB234">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://pre00.deviantart.net/7fd4/th/pre/f/2018/034/7/d/launchdisplay_v1_5_by_octopusproteins-dby4dwt.png">
+<meta name="twitter:image:src" content="https://pre00.deviantart.net/7fd4/th/pre/f/2018/034/7/d/launchdisplay_v1_5_by_octopusproteins-dby4dwt.png">
+<meta name="twitter:site" content="@deviantart">
+<meta property="og:title" content="LaunchDisplay v1.5">
+<meta property="og:image" content="https://pre00.deviantart.net/7fd4/th/pre/f/2018/034/7/d/launchdisplay_v1_5_by_octopusproteins-dby4dwt.png">
+<meta property="og:image:width" content="829">
+<meta property="og:image:height" content="964">
+<meta property="og:url" content="https://octopusproteins.deviantart.com/art/LaunchDisplay-v1-5-722439533">
+<meta property="og:description" content="This is a skin to display the next 5 launches as provided by the LaunchLibrary API. www.launchlibrary.net v1.5----------------------------------------------- Changed video icon to be more clear Enl...">
+<meta property="da:appurl" content="DeviantArt://deviation/709EA68C-04A0-69BB-36D4-8B562A4DB234">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="DeviantArt">
+<meta property="twitter:account_id" content="1239671">
+<script type="text/javascript" id="dagaua_init">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga("create","UA-322734-1",".deviantart.com");
+ga("set","dimension1","visitor");
+ga("set","dimension6","menu_dropdown-messages_n\/a");
+ga("send","pageview",{"dimension4":0});            </script>
+            <script type='text/javascript' id='dwaitdatex-5a762d0fc7de5'>
+(function(){
+    function dwaitdatex_5a762d0fc7de5(DWait) {
+        var DWaitReady = false
+        ,context = this
+        ,cb = function() {
+            DWaitReady = true;
+            var elem = document.getElementById('dwaitdatex-5a762d0fc7de5');
+            context = elem ? elem.parentNode : context;
+            (function(){ ga(function () { PubSub.publish('DaGa.init', {});  }); }).apply(context);
+        };
+        DWait.ready(["jms/lib/pubsub.js", "jms/lib/analytics.js"], cb);
+    }
+
+    function load() {
+        if (window.DWait) {
+            dwaitdatex_5a762d0fc7de5(DWait);
+        } else {
+            setTimeout(load, 100);
+        }
+    }
+
+    load();
+})();
+</script>        <script type="text/javascript">
+          var _qevents = _qevents || [];
+
+          (function() {
+           var elem = document.createElement('script');
+
+           elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+           elem.async = true;
+           elem.type = "text/javascript";
+           var scpt = document.getElementsByTagName('script')[0];
+           scpt.parentNode.insertBefore(elem, scpt);
+          })();
+        </script>
+                <script type="text/javascript">
+            window.vms_features={'geo_blocker':1,'login_security_headers':1,'ads_da_safeframe':1,'forcenock':1,'ads_campaign_bidder':1};
+            function vms_feature(feature) {
+                return (feature in window.vms_features);
+            }
+                        function is_beta() {
+                return false;
+            }
+        </script>
+        
+<link rel="stylesheet" type="text/css" href="https://st.deviantart.net/css/deviantart-network_lc.css?2070704155" media="Screen,Projection,TV,Print">
+<link rel="stylesheet" type="text/css" href="https://st.deviantart.net/css/v6core_lc.css?934426745" media="Screen,Projection,TV,Print">
+<link rel="stylesheet" type="text/css" href="https://st.deviantart.net/css/sidebar_lc.css?1490570941" media="Screen,Projection,TV,Print">
+<link rel="stylesheet" type="text/css" href="https://st.deviantart.net/css/writer_lc.css?3090682151" media="Screen,Projection,TV,Print">
+<link rel="stylesheet" type="text/css" href="https://st.deviantart.net/css/v6loggedin_lc.css?3001430805" media="Screen,Projection,TV,Print"><link rel="apple-touch-icon" sizes="180x180" href="https://st.deviantart.net/minish/touch-icons/ios-180.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://st.deviantart.net/minish/touch-icons/ios-152.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://st.deviantart.net/minish/touch-icons/ios-120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://st.deviantart.net/minish/touch-icons/ios-76.png">
+<link rel="icon" sizes="192x192" href="https://st.deviantart.net/minish/touch-icons/android-192.png">
+<link rel="icon" sizes="144x144" href="https://st.deviantart.net/minish/touch-icons/android-144.png">
+<link rel="icon" sizes="96x96" href="https://st.deviantart.net/minish/touch-icons/android-96.png">
+<link rel="icon" sizes="48x48" href="https://st.deviantart.net/minish/touch-icons/android-48.png">
+<meta name="application-name" content="DeviantArt" />
+            <link rel="mask-icon" href="https://st.deviantart.net/minish/touch-icons/touchbar-mark.svg" color="#05cc47">
+        <link href="https://octopusproteins.deviantart.com/art/LaunchDisplay-v1-5-722439533" rel="canonical">
+<link href="android-app://com.deviantart.android.damobile/DeviantArt/deviation/709EA68C-04A0-69BB-36D4-8B562A4DB234" rel="alternate">
+<link rel="alternate" hreflang="en" href="https://octopusproteins.deviantart.com/art/LaunchDisplay-v1-5-722439533"/>
+<link rel="alternate" hreflang="x-default" href="https://octopusproteins.deviantart.com/art/LaunchDisplay-v1-5-722439533"/>
+<link href="https://i.deviantart.net/icons/da_favicon.ico" rel="shortcut icon"/>
+<script type="text/javascript">window.__external_data={"css_served":[52,27],"css_url":"\/\/st.deviantart.net\/roses\/cssmin\/","css_cache":{"1":1517520832413,"4":1517520832413,"25":1517520832413,"27":1517520832413,"52":1517520832413,"55":1517520832414,"57":1517520832414,"60":1517520832414,"63":1517520832414,"66":1517520832414,"68":1517520832414,"71":1517520832414,"73":1517520832414,"75":1517520832414,"89":1517520832414,"91":1517520832414,"101":1517520832414,"103":1517520832415,"105":1517520832415,"107":1517520832415,"109":1517520832415},"css_idx":["admin\/kragle","admin","admin\/goals","blocks\/base","blocks","blocks\/critique","blocks\/freeform","blocks\/pointstransactiongummy","blocks\/poll","blocks\/message-module","blocks\/partials\/dropdown","blocks\/widgets\/bppform","blocks\/widgets\/comment-bubble","blocks\/group-created","blocks\/widgets\/comment-box","blocks\/contest","lib\/da\/btn-62deg","blocks\/group-notice","blocks\/stack","blocks\/bulletin","blocks\/status","blocks\/commission","blocks\/birthdaygummy","blocks\/badge","da\/common\/hub-demo","common","kits\/buttons","core","kits\/forms","kits\/tabs","kits\/loading","kits\/helper-classes","lib\/da\/popup","lib\/da\/modal","lib\/da\/toast","da\/torpedo\/torpedo","da\/torpedo\/freeform","da\/torpedo\/film","da\/torpedo\/gallections","da\/torpedo\/mini","da\/torpedo\/watch","da\/torpedo\/polls","da\/torpedo\/bands","da\/torpedo\/ads","da\/torpedo\/mlt","da\/report\/report","da\/gallerywidget\/gallerywidget","da\/twitch\/twitch-embed","da\/browse\/browse-options","da\/header\/header","da\/watch\/watch-editor","da\/common\/desktop","desktop","da\/navbar\/navbar","da\/facebook-live\/facebook-live-elnino","facebook-live","da\/hero\/hero","hero","da\/hero\/hero-modules","da\/join\/goals_mobile","join-mobile","da\/join\/verify-mobile","da\/join\/join","join","da\/join\/goals","da\/livethumb\/livethumb","livethumb","da\/mobile\/header","mobile-header","da\/mobile\/mobile-header-white","da\/help\/mobile","mobile-help","da\/notes\/mobile-notes","mobile-notes","da\/browse\/mobile-browse","mobile","da\/browse\/mobile","da\/sliding-overlay\/sliding-overlay","da\/sliding-panel\/sliding-panel","da\/common\/mobile","da\/login\/mobile-login","da\/common\/mobile-nav-element","da\/notification-center\/mobile-notification-center","da\/profile\/mobile-profile","da\/forum\/mobile-forum","da\/watch\/mobile-watch","da\/deviation\/mobile-deviation","da\/common\/mobile-agegate","da\/moderation\/moderation","moderation","da\/notification-center\/layout","notification-center","da\/notification-center\/messages","da\/notification-center\/sidebar","da\/notification-center\/mobile","lib\/da\/give-menu","lib\/da\/pagination","lib\/da\/selection","lib\/da\/drag-and-drop","lib\/da\/confirm","lib\/da\/peeky\/peek","peeky","da\/portal\/gogo","portal","da\/postbox\/postbox","postbox","da\/settings\/mobile-settings","settings","da\/twitch\/twitch-elnino","twitch"]};window.__pageload = {"initial_data":{"deviantart-object":{"username":null,"userid":null,"useruuid":null,"usericon":"https:\/\/a.deviantart.net\/avatars\/default.gif","features":["geo_blocker","login_security_headers","ads_da_safeframe","forcenock","ads_campaign_bidder"],"browseadult":false,"loggedin":false,"showads":true,"isMobile":false,"isVM":false,"clickPaging":false,"verified":0,"authMode":null}},"metadata":{"0.0":{"bi":{"eventname":"click_join","modal_version":1,"version":1}},"0.1":{"bi":{"eventname":"click_login","modal_version":1,"version":1}}}}</script>
+<link  type="text/css" rel="stylesheet" href="//st.deviantart.net/roses/cssmin/desktop.css?1517520832413" >
+<link  type="text/css" rel="stylesheet" href="//st.deviantart.net/roses/cssmin/core.css?1517520832413" >
+<link  type="text/css" rel="stylesheet" href="//st.deviantart.net/roses/rosa/commons.b25b073804186896c703.css" ><script type="text/javascript">window.webpackManifest = {"0":"vendor.e98d5ba5723c8f773aec.js","1":"commons.b25b073804186896c703.js","2":"mobile.notification-centre.99408983b49aef49941d.js","3":"admin-saucepan.c497a0c2603d3ad11dd4.js","4":"mobile.sink.27cea6724d476668d315.js","5":"cart.2f514259bdbd1ddb6876.js","6":"mobile.login.01af8724537b7f719734.js","7":"developer.5566a7551fdbfe07ed1b.js","8":"login.60fcc6adeec4acaf81a7.js","9":"admin.ab0712ce39eee840e51f.js","10":"sink.51988ceca707b83e70f3.js"};window.__wake = (function(){
+            var q = [];
+            window.__wp_q = q;
+            return function(wake) {
+                q.push(wake);
+            }
+        })();</script><script type="text/javascript">
+if (!window.deviantART) deviantART = {};deviantART.deviant =[];
+deviantART.pageData={"deviation_initial_hit_ref_unknown":true,"deviation_initial_hit_ref_external":false,"artist_analytics_id":false,"deviationid":722439533,"deviation_urlpath":"\/art\/LaunchDisplay-v1-5-722439533","catpath":"customization\/skins\/sysmonitor\/rainmeter","catpath_titles":"Customization \/ Skins & Themes \/ System Monitoring \/ Rainmeter","custom_fullview":1,"pimp_deviation_artist":"OctopusProteins","is_not_favouritable":0,"deviation_has_print":0,"deviation_is_unlockable":0,"deviation_is_recent":false,"deviation_width":829,"deviation_height":964,"deviation_width_fullview":875,"deviation_height_fullview":1017,"deviation_cat_topicid":1,"deviation_download":"file","pimp_me":null,"overlay_sponsor":1,"user":{"symbol":"","username":""},"ads":{"_acb":"1517520998","_ccb":"1508202882","atf_right_300x250":1,"btf_right_300x250":1},"ga_hit":{"dimension4":0},"csrf":"SWOLtuoAvXP6PHEt.p3lgcv.r-HvY-lSAt_FMCklzPxGrJrcIuFE-vK8R9wK2Cq73kE","dwait_total":15};
+
+</script>
+<script type="text/javascript">(function(e){function a(e){var a=!1;try{a=JSON.parse(e.data),a.payload=JSON.parse(a.payload)}catch(n){}return a}function n(n){var r=a(n);if(r&&r._type&&"PubSubEvent"==r._type&&(u.push(r),e.PubSub&&e.PubSubCrossFrame)){t(!1);for(var s=0,o=u.length;o>s;s++)r=u[s],PubSubCrossFrame.publish(r.eventname,r.payload,r.quiet);if(e.vms_feature&&vms_feature("dre")){var b=u.slice().map(function(e){return{eventname:e.eventname,payload:(JSON.stringify(e.payload)+"").substr(0,100),quiet:e.quiet}});e.debug_pubsubcrossframe=function(){console.group("Accumulated PubSubCrossFrame events"),console.table(b),console.groupEnd()}}u=null}}function t(a){e.addEventListener?e[(a?"add":"remove")+"EventListener"]("message",n):e[(a?"detach":"attach")+"Event"]("onmessage",n)}var u=[];e.PubSubCrossFrame||t(!0)})(window);</script>
+<script type="text/javascript">(function(t){var r=function(r){if(!r||"object"!=typeof r||r.nodeType||r==t)return!1;var n=Object.prototype.hasOwnProperty;try{if(r.constructor&&!n.call(r,"constructor")&&!n.call(r.constructor.prototype,"isPrototypeOf"))return!1}catch(o){return!1}var e;for(e in r);return void 0===e||n.call(r,e)},n=function(t){var o,e={};for(o in t)e[o]=r(t[o])?n(t[o]):t[o];return e},o=Array.isArray||function(t){return"[object Array]"===toString.call(t)},e={},l=/^.*\..*$/,i=function(t){if(t){if("function"==typeof t)throw"Glbl isn't meant to store functions, yo";if(o(t))for(var n=0,e=t.length;e>n;n++)i(t[n]);else if(r(t))for(var n in t)i(t[n])}};t.Glbl=function(t,o){if(1==arguments.length)return o=e[t],r(o)&&(o=n(o)),o;if("string"!=typeof t||!l.test(t))throw console.trace(),"Glbl keys need to be namespaced (dot-separated)";return i(o),r(o)&&(o=n(o)),e[t]=o,o},t.Glbl.dflt=function(t,n){if(r(t)){if(void 0!==n)throw"Misuse of Glbl, you cannot pass a dictionary AND a default value";for(var o in t)Glbl.dflt(o,t[o])}else void 0===Glbl(t)&&Glbl(t,n)},t.Glbl.plus=function(t,r){return 1===arguments.length&&(r=1),i(r),Glbl(t,(0|Glbl(t))+r)},t.Glbl.minus=function(t,r){return 1===arguments.length&&(r=1),i(r),Glbl(t,(0|Glbl(t))-r)},t.Glbl.match=function(t){var r={};for(var n in e)t.test(n)&&(r[n]=e[n]);return r},t.Glbl.del=function(t){void 0!==e[t]&&delete e[t]}})(window);</script>
+<script type="text/javascript">window.deviantART||(window.deviantART={}),function(){var t=function(){};window.breakpoint||(window.breakpoint=t),window.console||(window.console={log:t,trace:t,info:t,warn:t}),window.ddt||(window.ddt={log:t,info:t,warn:t,watch:t,unwatch:t,watching:t,alert:t,error:t})}(),DWait={X:[],L:{},T:{},R:{},D:"jms/dwait/download.js",MC:((window.deviantART||{}).pageData||{}).dwait_total||0,ready:function(t,i){var e,a;for(t instanceof Array||(t=[t]),i instanceof Array||(i=[this,i]),"string"==typeof i[1]&&(i[1]=Function(i[1])),a={},e=0;e!=t.length;e++)a[t[e]]=1;for(DWait.X.push({m:a,c:i}),DWait.fire(),e=0;e!=t.length;e++)DWait._trip(t[e])},_trip:function(t){if(!DWait.L[t]&&DWait.T[t]&&t!=DWait.D){var i=DWait.T[t];DWait.ready(DWait.D,function(){DWait.download(i,function(){DWait.unroll(i)})})}},count:function(){--DWait.MC||setTimeout(function(){DWait.run(".allready")},1)},fire:function(){var t,i,e,a;for(t=0;e=this.X[t];t++){a=!1;for(i in e.m){if(!this.L[i]){a=!0;break}delete e.m[i]}if(!a){this.X.splice(t,1),t--,e.c[1].apply(e.c[0],(e.c[2]||[]).concat([this.L[i]])),setTimeout(function(){DWait.fire()},1);break}}},run:function(t,i,e){t.indexOf("__")>0&&console.log("[DWait] Running branched file: ",t),this.L[t.replace(/__([A-Za-z0-9_-]+)/,"")]=i||1,this.T[t]&&!e&&this.unroll(this.T[t],i),DWait.fire()},unroll:function(t,i){t instanceof Array||(t=[t]);var e,a,n,r,o;for(e=0;a=t[e];e++){if(a=a.replace(/\?.*/,""),n=this.R[a])for(r=0;o=n[r];r++)!this.L[o]&&this._is_css.test(o)&&this.run(o,i,!0);delete this.R[a]}},_is_css:/\.css$/,N:[],readyLink:function(t,i,e){var a;if(window.event&&(window.event.cancelBubble=!0),e instanceof Array||(e=[i,e,[]]),!this.L[t]){for(a=0;a!=this.N.length;a++)if(this.N[a]==i)return!1;this.N.push(i),i.style.cursor="wait",i.className+=" active",this.ready(t,[this,this.fixLink,[i]])}if(this.ready.call(i,t,e),i.blur)try{i.blur()}catch(n){}return!1},linkCheck:function(){return!0},fixLink:function(t){var i;for(t.style.cursor="pointer",t.className=t.className.replace(/\bactive\b/,""),i=0;i!=this.N.length;i++)if(this.N[i]==t)return this.N.splice(i,1)},bind:function(t,i,e){return[t,i,e]},loadDownloadMap:function(t){this.T=t,this.retrip()},loadRollupMap:function(t){this.R=t},retrip:function(){for(var t=this.X.length;t--;)for(var i in this.X[t].m)this._trip(i)},replay:function(){DWait.replay.active=!0;try{$(document.body).on("click.dwait",function(t){t.preventDefault()}).find(".dwaiting").removeClass("dwaiting active").gmiWake().click().end().off("click.dwait")}finally{DWait.replay.active=!1}}},function(){function t(t){t=t||window.event;for(var a,r=t.target||t.srcElement,o=r,c=r,s=d+t.type,l=t.type&&"click"==t.type&&!(DWait.replay&&DWait.replay.active);r&&!(r.getAttribute&&(a=r.getAttribute(s))||l&&/\bdwait\b/.test(r.className));)r=r.parentNode;var f=t.which&&t.which>1||t.button>0;if("click"===t.type&&!t.defaultPrevented&&t.returnValue!==!1&&(t.altKey||t.ctrlKey||t.metaKey||t.shiftKey||f))do if("A"===c.nodeName){if(c.href&&0!==c.href.indexOf("javascript:")&&"#"!==c.href)return!0;break}while(c=c.parentNode);var u=function(){t.stopPropagation?t.stopPropagation():t.cancelBubble=!0,t.preventDefault?t.preventDefault():t.returnValue=!1};return a?r.dwait_init_done?!0:i(a,r)?(u(),r.dwait_init_id?"click"==t.type&&(n[r.dwait_init_id]=o):e(a,r,t),!1):(r.dwait_init_done=!0,!0):l&&r&&/\bdwait\b/.test(r.className)?(/\bdwaiting\b/.test(o.className)||(o.className+=" active dwaiting"),void 0===DWait.replay.active&&(DWait.replay.active=!1,DWait.ready([".jqready",".allready"],DWait.replay)),u(),!1):!0}function i(t,i){if(o[t])for(var e=0;o[t].length>e;e++)if(!o[t][e].call(i,i,t))return!1;return!0}function e(t,i,e){function a(){if(r[t])for(var e=0;r[t].length>e;e++)r[t][e].call(i,i,l);i.dwait_init_done=!0,i.className=i.className.replace(/\binit-waiting\b/,"");var a=n[i.dwait_init_id];a&&a.click&&setTimeout(function(){a.click()},1)}var o=s++,c=i.getAttribute(d+"deps"),l=e&&e.type?e.type:"domready";return i.dwait_init_id=o,"click"==l&&(n[o]=e.target||e.srcElement),c&&c.split?(c=c.split(","),i.className+=" init-waiting",DWait.ready(c,a),void 0):(a(),void 0)}var a,n={},r={},o={},c=["click","mouseover"],d="data-dwait-",s=1;for(DWait.init=function(t,i,e){r[t]||(r[t]=[]),r[t].push(i),"function"==typeof e&&(o[t]||(o[t]=[]),o[t].push(e))},DWait.init_domready=function(t){$("[data-dwait-domready]",t).each(function(){this.dwait_init_done||this.dwait_init_id||!this.getAttribute||e(this.getAttribute("data-dwait-domready"),this)})},DWait.ready(".domready",function(){DWait.init_domready()}),a=0;c.length>a;a++)document.addEventListener?document.addEventListener(c[a],t,!1):document.attachEvent&&document.attachEvent("on"+c[a],t)}();</script>
+<script type="text/javascript">(function(t){if(t.console){var n="ddt_watch",e=" ;path=/ ;domain=."+t.location.host.split(".").slice(-2).join("."),r=["sta.sh","deviantart.com"],a=RegExp("^(https?:)?\\/\\/([^.]+\\.)?("+r.join("|").replace(".","\\.")+")\\b","i"),o=t.parent!==t,i={},s={},d=128,c={get:function(){var t=RegExp("(?:^|; )"+encodeURIComponent(n)+"=([^;]+)"),e=t.exec(document.cookie);return e?(decodeURIComponent(e[1])+"").split(","):[]},set:function(){var n=[];for(var e in i)n.push(e);var a,o=n.join(",");if(!vms_feature("qunit"))for(var s=0;r.length>s;s++){var d=r[s];"deviantart.com"==d&&(d="www.deviantart.com"),a=new Image,a.src="https://"+d+"/ddt/?channels="+o+"&cb="+(new Date).getTime()}c.sync(++t.ddt.version)},del:function(){var r=new Date;r.setTime(r.getTime()-864e5),document.cookie=encodeURIComponent(n)+"=; expires="+r.toUTCString()+e,c.sync(++t.ddt.version)},sync:function(){}};if(t.postMessage)var l=setInterval(function(){t.DWait&&(clearInterval(l),DWait.ready("jms/lib/jquery/jquery.current.js",function(){c.sync=function(n){var e=JSON.stringify({ddt:!0,version:n,channels:i}),r="*",s=$("iframe[src]");s.filter(function(){return a.test(this.src)&&this.contentWindow.ddt&&this.contentWindow.ddt.version!==n}),s.length&&(ddt.log("ddt","syncing channels down",s.length,"frames found"),s.each(function(){this.contentWindow.postMessage(e,r)})),o&&t.parent.ddt.version!==n&&(ddt.log("ddt","syncing channels up"),t.parent.postMessage(e,r))},$(t).on("message.ddt",function(n){var e=n.originalEvent;if(e&&e.data&&e.origin&&a.test(e.origin)){var r;try{r=JSON.parse(e.data)}catch(o){}r&&r.ddt&&r.version&&t.ddt.version!==r.version&&(t.ddt.version=r.version,i=r.channels,ddt.log("ddt","updated watch list to","v"+r.version,"in",t.name,ddt.watching()),c.sync(r.version))}})}))},100);var u=function(t,n){if(n.indexOf("*")>=0){if(t.match(n.replace(/\./g,".").replace(/\*/,".*")))return!0}else if(t.toLowerCase()==n)return!0},f=function(t){return t in console||console.warn("[ddt] cannot proxy this method, it is not defined in console",t),function(n,e){s[n]=!0;var r;for(r in i)if(i.hasOwnProperty(r)&&u(n,r)){var a=Array.prototype.slice.call(arguments,1);return a[0]="["+n+"] "+e,console[t].apply(console,a)}}},g=function(t){return t.length>d&&(console.warn("[ddt] package name exceeds allowed length of "+d+" chars and is truncated to that length",t),t=t.substring(0,d)),t};t.ddt={version:0,log:f("log"),info:f("info"),warn:f("warn"),error:f("error"),trace:function(t){ddt.watching(t)&&(ddt.log.apply(ddt,arguments),console.trace())},list:function(t){var n=Object.keys(s);t&&(n=n.filter(function(n){return u(n,t)})),console.log(n)},createLogger:function(t){var n=function(t){var n=Array.prototype.slice.call(arguments,1);return function(){return t.apply(this,n.concat(Array.prototype.slice.call(arguments,0)))}};return{log:n(ddt.log,t),info:n(ddt.info,t),warn:n(ddt.warn,t),error:n(ddt.error,t),trace:n(ddt.trace,t),alert:n(ddt.alert,t)}},watch:function(n,e){if(!n)return!1;if(n instanceof Array){for(var r in n)t.ddt.watch(n[r],!0);c.set()}else{if(!/^[a-zA-Z0-9*.]+$/.test(n))return console.warn("[ddt] attempted to watch invalid package",n),!1;i[g(n.toLowerCase())]=!0,e||c.set()}return!0},unwatch:function(n,e){if(!n)return console.warn("[ddt] need a package name"),!1;if(n instanceof Array){for(var r in n)t.ddt.unwatch(n[r],!0);c.set()}else{if(!/^[a-zA-Z0-9*.]+$/.test(n))return console.warn("[ddt] attempted to watch invalid package",n),!1;n=g(n.toLowerCase());var a;for(a in i)i.hasOwnProperty(a)&&u(a,n)&&delete i[a];e||c.set()}return!0},watching:function(t){if(t){var n;for(n in i)if(i.hasOwnProperty(n)&&u(t,n))return!0}var e=[];for(var r in i)e.push(r);return e},alert:function(n,e,r,a,o){ddt.warn(n,e,r),DWait.ready(["jms/lib/jquery/jquery.current.js","jms/lib/difi.js"],function(){$.isPlainObject(r)||(r&&console.warn("[ddt] alert data is not a plain object",r),r={}),o!==!1&&(r=$.extend({},r||{}),$.extend(r,{url:t.top.location.href,useragent:navigator.userAgent}),(t.deviantART||{}).deviant&&$.extend(r,{username:deviantART.deviant.username,symbol:deviantART.deviant.symbol,userid:deviantART.deviant.id,features:deviantART.deviant.features})),"string"==typeof a&&(a=[a]),"string"!=typeof e&&(console.warn("[ddt] alert message is not a string",e),e=""+e),DiFi.pushPost("Logr","logr",["js",e,r,a||[]],$.noop),DiFi.send()})}};var v=c.get();v&&(v instanceof Array&&v.length?(t.ddt.watch(v),o||console.log("[ddt] watching",t.ddt.watching())):c.del())}})(window);</script>
+<script type="text/javascript">(function(){function e(e,t,i,n){var a=e/i,d=t/n,o={w:e,h:t};return 1>=a&&1>=d?o:(a>d?(o.w=i,o.h=Math.round(t/a)):(o.h=n,o.w=Math.round(e/d)),o)}function t(t,i,n,g){var l,m=(document.body||{}).clientWidth||window.innerWidth||document.documentElement.offsetWidth,c=window.innerHeight||document.documentElement.offsetHeight,f=m-a-d-o,s=f-v,_=c-w-u-h-p-r,A={};return s=Math.max(300,s),_=Math.max(300,_),l=e(t,i,s,_),200>l.h&&(l.top=Math.round((200-l.h)/2)),m>=n?(A.w=n,A.h=g,l.top&&(A.top=l.top)):(dw=n/m,A.w=m,A.h=Math.round(g/dw)),{normal:l,full:A,full_zoomed:{w:n,h:g}}}var i=!(window.deviantART||{deviant:{}}).deviant.loggedIn||(window.deviantART||{deviant:{}}).deviant.ads,n=Boolean(((window.deviantART||{}).pageData||{}).with_apps),a=331,d=10,o=10,v=0,h=i?60:0,w=43,u=n?25:0,p=8,r=12,g=t(Number(deviantART.pageData.deviation_width),Number(deviantART.pageData.deviation_height),Number(deviantART.pageData.deviation_width_fullview),Number(deviantART.pageData.deviation_height_fullview)),l='<style type="text/css">';for(var m in g)l+=".dev-page-view .dev-view-deviation img.dev-content-"+m+", .dev-page-view .dev-view-deviation .devpage-gate-"+m+" { width:"+g[m].w+"px; height: "+g[m].h+"px "+(g[m].top?"; position:relative; top:"+g[m].top+"px":"")+"}";document.write(l+"</style>")})();</script>
+<script type="text/javascript">window.autobob={error:function(i){var e=i.target||i.srcElement;e.style.visibility="hidden";var t=e.src,s=parseInt(e.retries||0,10)+1;t=(-1==t.indexOf("?")?t:t.substr(0,t.length-(s-1+"").length-1))+"?"+s,(!window.isVM||vms_feature("vm_fileserving"))&&6>s?(e.retries=s,setTimeout(function(){(e.readyState||e.complete)&&(e.src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",e.style.visibility="visible"),e.src=t},3500)):(e.autobob_done=!0,e.style.visibility="visible")},load:function(i){var e=i.target||i.srcElement;e.style.visibility="visible"}};</script>
+<script type="text/javascript">document.write('<style type="text/css">div.unscripted, span.unscripted {display:none} div.scripted, div.unlock div.unscripted {display:block} span.scripted, div.unlock span.unscripted {display:inline}</style>');</script>
+<script type="text/javascript">var d=(window.location.hash||"").match(/^#\/d([a-z0-9]+)$/);d&&(window.location=document.location.protocol+"//www.deviantart.com/deviation/"+parseInt(d[1],36));</script>
+<script type="text/javascript">OHM_ON=150,OHM_OFF=300,OHM={disabled:!1,sync:function(e,t){var a;return(a=OHM.getLink(e.target||e.srcElement))?(t||(a=null),OHM.disabled?!1:(OHM.want=a,OHM.timer&&clearTimeout(OHM.timer),navigator.userAgent.indexOf("Mobile")>=0?OHM.hit("m",e.target):OHM.timer=setTimeout(OHM.hit,OHM.got&&a?10:a?OHM_ON:OHM_OFF),void 0)):!1},hit:function(e,t){if(delete OHM.timer,OHM.want&&"m"==e){for(;!t.href&&(t=t.parentNode););t&&!t.onclick&&(t.className||"").match(/\bmi\b/)&&(window.location.href=t.href)}OHM.want!=OHM.got&&(OHM.got&&(OHM.got.className=OHM.got.className.replace(/\s*\bmmhover{1,2}\b/g,""),window.Popup2&&Popup2.showOverlayElements(),window.PubSub&&PubSub.publish("OHM.hit",{id:OHM.got.id,on:0})),OHM.got=OHM.want,OHM.got&&window.Popup2&&(OHM.got.className+=" mmhover",window.PubSub&&PubSub.publish("OHM.hit",{id:OHM.got.id,on:1})))},getLink:function(e){for(;("DIV"!=e.tagName&&"TD"!=e.tagName||!((e.className||"").indexOf("oh-ml")>=0||(e.className||"").indexOf("oh-hashover")>=0||(e.className||"").indexOf("oh-hasbutton")>=0)||!((document.body.className||"").indexOf("no-apps")>=0||(document.body.className||"").indexOf("stash-submit-page")>=0||0>(e.className||"").indexOf("oh-mmain")))&&(e=e.parentNode);)if("H1"==e.tagName)return 0;return e}};</script><script type="text/javascript">if (window.DWait) {DWait.run('jms/lib/pubsubcrossframe.fastcall.js');DWait.run('jms/lib/glbl.js');DWait.run('jms/dwait/dwait.js');DWait.run('jms/lib/ddt.js');DWait.run('jms/pages/deviation/dev-page-view-inline-sizer.js');DWait.run('jms/chrome/autobob.js');DWait.run('jms/lib/unscripted.js');DWait.run('jms/chrome/deviation_redirect.js');DWait.run('jms/chrome/overhead_mouse.js');}</script><script type="text/javascript">
+            DWait.loadRollupMap({"https:\/\/st.deviantart.net\/css\/flatpickr_lc.css":["cssms\/lib\/flatpickr.css"],"https:\/\/st.deviantart.net\/css\/deviantart-network_lc.css":["cssms\/lib\/survival.css","cssms\/lib\/nudge.css","cssms\/lib\/thumbnails.css","cssms\/lib\/thumbnails-200H.css","cssms\/lib\/thumbnails-stream.css","cssms\/lib\/thumbnails-maturefilter.css","cssms\/lib\/thumbnails-lit.css","cssms\/lib\/thumbnails-journal.css","cssms\/lib\/thumbnails-film.css","cssms\/lib\/thumbnails-misc.css","cssms\/lib\/thumbnails-profilecard.css","cssms\/lib\/thumbnails-stack.css","cssms\/lib\/deviation-placeholders.css","cssms\/lib\/maturefilter.css","cssms\/lib\/icons.css","cssms\/lib\/popup.css","cssms\/lib\/shadows.css","cssms\/lib\/modals.css","cssms\/modals\/purchase-modal.css","cssms\/pages\/misc\/gmbutton2.css","cssms\/pages\/misc\/smbutton.css","cssms\/pages\/grusers\/boxes.css","cssms\/modals\/signup-modal.css","cssms\/pages\/verify.css","cssms\/pages\/misc\/subble.css","cssms\/pages\/misc\/quicktip.css","cssms\/pages\/misc\/buttons.css","cssms\/pages\/comment-box.css","cssms\/pages\/misc\/megamisc.css","cssms\/pages\/deviation\/paddles-ab.css","cssms\/pages\/misc\/iconbar.css","cssms\/topsecret\/quiet-comments.css","cssms\/pages\/talkpost.css","cssms\/lib\/pager.css","cssms\/lib\/da.misc.widgets.pager.css","cssms\/pages\/deviation\/deviation-misc.css","cssms\/pages\/deviation\/deviation-devlinkzone.css","cssms\/pages\/deviation\/deviation-stash.css","cssms\/pages\/deviation\/deviation-group.css","cssms\/pages\/deviation\/deviation-share.css","cssms\/pages\/deviation\/deviation-ch.css","cssms\/pages\/deviation\/deviation-artistcomments.css","cssms\/pages\/deviation\/deviation-sparta.css","cssms\/pages\/deviation\/deviation-boxtop.css","cssms\/pages\/deviation\/deviation-popup2.css","cssms\/pages\/deviation\/deviation.css","cssms\/pages\/deviation\/dev-page-view-common.css","cssms\/pages\/deviation\/dev-page-view-right-bar.css","cssms\/pages\/deviation\/dev-page-view-about.css","cssms\/pages\/deviation\/dev-page-view-challenge.css","cssms\/font\/calibre.css","cssms\/chrome\/overhead.css","cssms\/chrome\/body-misc.css","cssms\/chrome\/v6-legacy.css","cssms\/chrome\/navbar.css","cssms\/pages\/writeranywhere.css","cssms\/lib\/writer-overrides.css"],"https:\/\/st.deviantart.net\/css\/v6core_lc.css":["cssms\/pages\/lesport.css","cssms\/lib\/deviantsymbols.css","cssms\/lib\/logo.css","cssms\/chrome\/depthsv7.css","cssms\/pages\/misc\/tabselect.css","cssms\/chrome\/nav.css","cssms\/pages\/critique-deviation.css","cssms\/pages\/critique-itempage.css","cssms\/pages\/deviation\/groupmenu.css","cssms\/pages\/deviation\/journals.css","cssms\/pages\/deviation\/literature.css","cssms\/pages\/devwatch-editor.css","cssms\/pages\/deviationmanage.css","cssms\/pages\/browse\/browse.css","cssms\/pages\/browse\/browse-buttons.css","cssms\/pages\/browse\/browse-journals.css","cssms\/pages\/browse\/newbrowse.css","cssms\/pages\/ad-square.css","cssms\/pages\/ad-da-custom.css","cssms\/pages\/ad-download.css","cssms\/pages\/ad-top.css","cssms\/pages\/ad-mc.css","cssms\/pages\/ad-gruser.css","cssms\/pages\/ad-core.css","cssms\/pages\/ad-yahoo.css","cssms\/minish\/hpto.css","cssms\/pages\/misc\/gmbutton.css","cssms\/topsecret\/contests.css","cssms\/lib\/thumbnails-news.css","cssms\/lib\/thumbnails-portal.css","cssms\/lib\/commentcount.css","cssms\/lib\/thumbnails-cropthumb.css","cssms\/pages\/deviation\/deviation-favebtn.css","cssms\/pages\/deviation\/deviation-megabag.css","cssms\/pages\/deviation\/deviation-collect.css","cssms\/pages\/deviation\/deviation-more.css","cssms\/pages\/deviation\/deviation-iconcommentstats.css","cssms\/pages\/browselikethis\/browselikethis.css","cssms\/pages\/browselikethis\/browselikethis.top_bar.css","cssms\/pages\/browselikethis\/browselikethis.left_bar.css","cssms\/pages\/browselikethis\/browselikethis.results.css","cssms\/pages\/browselikethis\/browselikethis.deviation_full_views.css","cssms\/pages\/browselikethis\/browselikethis.groups.css","cssms\/pages\/browselikethis\/browselikethis.shop.css","cssms\/pages\/browselikethis\/browselikethis.ads.css","cssms\/pages\/browselikethis\/browselikethis.search_input.css","cssms\/pages\/discoverytag\/discoverytag.css","cssms\/pages\/discoverytag\/discoverytag.right_bar.css","cssms\/pages\/challenge\/challenge.css","cssms\/pages\/agegate.css","cssms\/pages\/newbies.css"],"https:\/\/st.deviantart.net\/css\/sidebar_lc.css":["cssms\/lib\/writer-sidebar.css"],"https:\/\/st.deviantart.net\/css\/writer_lc.css":["cssms\/lib\/writer.css","cssms\/lib\/writer-imagecontrols.css","cssms\/lib\/writer-toolbar.css","cssms\/lib\/writer-subtoolbar.css","cssms\/lib\/autocomplete.css"],"https:\/\/st.deviantart.net\/css\/v6loggedin_lc.css":["cssms\/lib\/drag.css","cssms\/minish\/lub.css","cssms\/pages\/misc\/progressbar.css","cssms\/pages\/grusers\/editmode.css","cssms\/pages\/grusers\/editmode-modal.css","cssms\/lib\/jquery\/jquery.select.pager.css"],"https:\/\/st.deviantart.net\/css\/who-faved-modal_lc.css":["cssms\/modals\/who-faved-modal.css"],"https:\/\/st.deviantart.net\/css\/notes-modal_lc.css":["cssms\/pages\/deviation\/note-modal.css"],"https:\/\/st.deviantart.net\/css\/stash_lc.css":["cssms\/pages\/stash\/stash.css","cssms\/pages\/stash\/stash.header.css","cssms\/pages\/stash\/stash.folder.css","cssms\/pages\/stash\/stash.uploadzone.css","cssms\/pages\/stash\/stash.auth.css","cssms\/pages\/stash\/stash.upgrade.css","cssms\/pages\/stash\/stash.thumb.dnd.css","cssms\/pages\/stash\/stash.thumb.hover.css","cssms\/pages\/stash\/stash.thumb.upload.css","cssms\/pages\/stash\/stash.thumb.stack.css","cssms\/pages\/stash\/stash.override.comments.css","cssms\/pages\/stash\/stash.override.deviation.css","cssms\/pages\/stash\/stash.override.global.css","cssms\/pages\/stash\/stash.override.header.css","cssms\/pages\/stash\/stash.override.modal.css","cssms\/pages\/stash\/stash.override.pagination.css","cssms\/pages\/stash\/stash.override.thumbs.css","cssms\/pages\/writeranywhere\/stashdesc.css","cssms\/pages\/writeranywhere\/stackdesc.css","cssms\/pages\/ile\/ile.shares.with.stash.css"]});
+            </script>
+<script type="text/javascript">
+                if (window.DWait) {
+                    for (var dwaitrollup in {"https:\/\/st.deviantart.net\/css\/deviantart-network_lc.css":true,"https:\/\/st.deviantart.net\/css\/v6core_lc.css":true,"https:\/\/st.deviantart.net\/css\/sidebar_lc.css":true,"https:\/\/st.deviantart.net\/css\/writer_lc.css":true,"https:\/\/st.deviantart.net\/css\/v6loggedin_lc.css":true}) {
+                        DWait.unroll(dwaitrollup);
+                    }
+                }
+                </script>
+<script type="text/javascript">DWait.ready(["jms\/lib\/glbl.js"], function(){ Glbl('deviantART.user_agreed_to_submission_policy', false); Glbl('Signup.no_redirect', true); Glbl('Submit.is_new_submit_form', true); Glbl('StashUploader.image_size_limit', 83886080); Glbl('StashUploader.default_size_limit', 209715200); Glbl('StashUploader.text_size_limit', 65500);  });</script>
+
+<script type="text/javascript" src="https://st.deviantart.net/css/deviantart-safeframes-host_jc.js?1182819192" charset="utf-8"></script>        <script type="text/javascript">
+            var googletag = window.googletag || {};
+            googletag.cmd = googletag.cmd || [];
+            (function() {
+                var gads = document.createElement('script');
+                gads.async = true;
+                gads.type = 'text/javascript';
+                var useSSL = 'https:' == document.location.protocol;
+                gads.src = (useSSL ? 'https:' : 'http:') +
+                    '//www.googletagservices.com/tag/js/gpt.js';
+                var node = document.getElementsByTagName('script')[0];
+                node.parentNode.insertBefore(gads, node);
+            })();
+        </script>
+                <script type="text/javascript">
+            googletag = window.googletag || {};
+            googletag.cmd = googletag.cmd || [];
+            var pageConfig = {
+                allowOverlayExpansion: true,
+                allowPushExpansion: true,
+                sandbox: true
+            };
+            googletag.cmd.push(function() {
+                googletag.pubads().setSafeFrameConfig(pageConfig);
+                googletag.pubads().enableSingleRequest();
+                googletag.pubads().disableInitialLoad();
+                googletag.pubads().set("adsense_channel_ids", "6796827591");
+googletag.pubads().set("google_hints", "customization,skins,sysmonitor,rainmeter");
+googletag.pubads().set("google_kw", "customization,skins,sysmonitor,rainmeter");
+googletag.pubads().set("google_kw_type", "broad");
+                googletag.pubads().setTargeting("Category", "Custom");
+googletag.pubads().setTargeting("SubCat", ["skins","sysmonitor","rainmeter"]);
+googletag.pubads().setTargeting("LoggedIn", "No");
+googletag.pubads().setTargeting("pageid", "722439533");
+googletag.pubads().setTargeting("dailyimp", "28");
+googletag.pubads().setTargeting("sessimp", "6");
+googletag.pubads().setTargeting("hashtags", ["display","launch","library","nasa","rainmeter","rocket","spacex"]);
+googletag.pubads().setTargeting("section", "deviation");
+                        (function() {
+            googletag = window.googletag || {};
+            googletag.cmd = googletag.cmd || [];
+            var gpt_slot = googletag.defineSlot("1008370\/ca-pub-2005626271413567\/atf_right_300x250_v7_deviation_pg-pv", [[300,250],[300,600]], "ad-atf-right-300x250-94223-safe");
+            if (!gpt_slot) {
+                (ddt || {log:function(){}}).log('ads.safeframe.gpt', 'GPT defined slot is null', '"1008370\/ca-pub-2005626271413567\/atf_right_300x250_v7_deviation_pg-pv"');
+                return;
+            }
+            gpt_slot.setForceSafeFrame(true);
+            gpt_slot.addService(googletag.pubads());
+            DWait.ready(['jms/lib/pubsub.js'], function() {
+                PubSub.publish('DaAds.defineSlot', {target: "ad-atf-right-300x250-94223-safe", slot: gpt_slot, path: "1008370\/ca-pub-2005626271413567\/atf_right_300x250_v7_deviation_pg-pv"}); 
+            });
+        })();        (function() {
+            googletag = window.googletag || {};
+            googletag.cmd = googletag.cmd || [];
+            var gpt_slot = googletag.defineSlot("1008370\/ca-pub-2005626271413567\/btf_right_300x250_v7_deviation", [300,250], "ad-btf-right-300x250-94223-safe");
+            if (!gpt_slot) {
+                (ddt || {log:function(){}}).log('ads.safeframe.gpt', 'GPT defined slot is null', '"1008370\/ca-pub-2005626271413567\/btf_right_300x250_v7_deviation"');
+                return;
+            }
+            gpt_slot.setForceSafeFrame(true);
+            gpt_slot.addService(googletag.pubads());
+            DWait.ready(['jms/lib/pubsub.js'], function() {
+                PubSub.publish('DaAds.defineSlot', {target: "ad-btf-right-300x250-94223-safe", slot: gpt_slot, path: "1008370\/ca-pub-2005626271413567\/btf_right_300x250_v7_deviation"}); 
+            });
+        })();                googletag.enableServices();
+            });
+
+        </script>
+        
+</head>
+<body id="deviantART-v7" class="secure bubble no-apps maturefilter loggedout maturehide w960 deviantart withad">
+
+<script type="text/javascript" async  src="https://st.deviantart.net/css/deviantart-network_jc.js?4278976861" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/v6core_jc.js?272787206" charset="utf-8"></script><header data-dwait-domready="LoginBar.init_touch" data-dwait-deps="jms/chrome/loginbar.js" id="overhead-collect"><table id="overhead" data-header-refresh="DAWebpageHeader;getHeaderHTML"  onmouseover="OHM.sync(arguments[0]||event,1)" onmouseout="OHM.sync(arguments[0]||event,0)"><tr><td class="oh-keep"></td>    <td class="oh-hasmenu oh-mmain oh-eax">
+                <a id="da-h1" href="https://www.deviantart.com" title="DeviantArt"  data-ga_click_event="{&quot;category&quot;:&quot;HeaderNav&quot;,&quot;action&quot;:&quot;click_logo&quot;,&quot;nofollow&quot;:0}">
+                <span id="deviantart-logo">
+        <span class="mark">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 100 167" preserveAspectRatio="xMidYMid meet">
+                <path class="wikistick" d=" M100 0 L99.96 0 L99.95 0 L71.32 0 L68.26 3.04 L53.67 30.89 L49.41 33.35 L0 33.35 L0 74.97 L26.40 74.97 L29.15 77.72 L0 133.36 L0 166.5 L0 166.61 L0 166.61 L28.70 166.6 L31.77 163.55 L46.39 135.69 L50.56 133.28 L100 133.28 L100 91.68 L73.52 91.68 L70.84 89 L100 33.33 "></path>
+                <image src="//st.deviantart.net/minish/main/logo/logo-mark.png">             </svg>
+        </span>
+        <span class="type">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="2 25 80 22" preserveAspectRatio="xMidYMid meet">
+                <g>
+                    <path class="logotype" d="M7.29,42.78300094604492l1.07,-2.05l0.5,2.05L7.29,42.78300094604492ZM7.39,37.04560089111328l-4.89,9.34l2.9,0l0.71,-1.36l3.28,0l0.32,1.36l2.9,0l-2.24,-9.34L7.39,37.04560089111328L7.39,37.04560089111328Z M17.18,41.412899017333984l-1.24,0L15.94,39.52399826049805l1.24,0c0.76,0,1.04,0.38,1.04,0.95C18.22,41.04,17.93,41.41,17.18,41.412899017333984M21.06,40.43009948730469c0,-2.15,-1.45,-3.38,-3.49,-3.38l-4.43,0l0,9.34l2.79,0l0,-2.72l0.68,0l0.56,0l1.35,2.73l2.9,0l-1.73,-3.3C20.55,42.55,21.06,41.64,21.06,40.43009948730469 M21.47,37.04560089111328L21.47,39.52210235595703L24.12,39.52210235595703L24.12,46.38869857788086L25.71,46.38869857788086L26.91,44.090301513671875L26.91,39.52210235595703L29.3,39.52210235595703L30.6,37.04560089111328Z M37.13,25.61210060119629L39.92,25.61210060119629L39.92,34.95389938354492L37.13,34.95389938354492L37.13,25.61210060119629Z M13.38,25.61669921875l-1.25,2.4l0.77,0c1.38,0,2.25,0.88,2.25,2.27c0,1.37,-0.87,2.25,-2.25,2.25l-0.87,0l0,-4.33l-2.7,5.16l0,1.59l3.76,0c3.03,0,4.81,-1.83,4.81,-4.67C17.89,27.53,16.23,25.73,13.38,25.61669921875 M18.63,34.954002380371094L25.76,34.954002380371094L25.76,32.47770309448242L21.42,32.47770309448242L21.42,31.46809959411621L25.41,31.46809959411621L25.41,29.097900390625L21.42,29.097900390625L21.42,28.088598251342773L25.76,28.088598251342773L25.76,25.612201690673828L18.63,25.612201690673828Z           M30.73,31.265302658081055L29.37,25.61210060119629L26.47,25.61210060119629L28.71,34.9536018371582L31.69,34.9536018371582L36.59,25.61210060119629L33.68,25.61210060119629Z M60.37,25.61140251159668L60.37,28.088102340698242L63.01,28.088102340698242L63.01,34.9546012878418L64.6,34.9546012878418L65.81,32.65629959106445L65.81,28.088102340698242L68.2,28.088102340698242L69.5,25.61140251159668Z M45.25,31.350000381469727l1.07,-2.05l0.49,2.05L45.25,31.350000381469727ZM45.36,25.61210060119629l-4.89,9.34l2.9,0l0.71,-1.36L47.35,33.59260177612305l0.32,1.36l2.9,0l-2.24,-9.34L45.36,25.61210060119629Z           M56.98,30.03729820251465L53.86,25.61210060119629L51.1,25.61210060119629L51.1,34.954002380371094L53.89,34.954002380371094L53.89,30.2096004486084L57.36,34.954002380371094L59.77,34.954002380371094L59.77,25.61210060119629L56.98,25.61210060119629Z"></path>
+                </g>
+                <image src="//st.deviantart.net/minish/main/logo/logo-type.png">             </svg>
+        </span>
+        <span class="text">Deviant Art</span>
+    </span>
+            <span style="font:6pt Verdana, sans-serif;letter-spacing:0;position:absolute;top:30px;left:80px;z-index:30;color:#93AA9B !important;">            </span>
+        </a>
+    </td>        <td class="oh-search">
+            <form id="search7" method="get" action="https://www.deviantart.com/"
+    data-ga_submit_event="{&quot;category&quot;:&quot;Search&quot;,&quot;action&quot;:&quot;Loginbar&quot;,&quot;label&quot;:&quot;browse&quot;}"    ><div id="search7-ctrl"><input type="hidden" name="section" value="" ><input type="hidden" name="global" value="1"><i class="gmbutton2f search-l"></i><input  class="gmbutton2 gmbutton2f" type="text" name="q" accesskey="s"><input class="gmbutton2searchcancel" type="button"><span class="scripted" style="_zoom:1"><a class="gmbutton2 gmbutton2f search-button" href="" data-ga_click_event="{&quot;category&quot;:&quot;Search&quot;,&quot;action&quot;:&quot;Loginbar&quot;,&quot;nofollow&quot;:0,&quot;label&quot;:&quot;browse&quot;}" onclick="this.parentNode.parentNode.parentNode.submit();if (window.event)event.cancelBubble=1;return false">Search<b></b></a></span><span class="unscripted"><input type="submit" value=""></span></div></form>        </td>
+    <td id="oh-menu-shop" class="oh-hasmenu oh-hashover oh-keep "
+    ><div class="oh-menuctrl"><nav class="oh-menu"><ul class="oh-menu-list"><li class="oh-menu-list-item"><a href="https://shop.deviantart.com" data-ga_click_event="{&quot;category&quot;:&quot;Retail&quot;,&quot;action&quot;:&quot;shoplink_appbar&quot;,&quot;nofollow&quot;:0}" class="mi iconset-more"><i class="i2"></i> <b>Buy Art</b></a></li><li class="oh-menu-list-item"><a class="mi iconset-upsell" href="https://www.deviantart.com/core-membership/?point=loginbar" data-ga_click_event="{&quot;category&quot;:&quot;PremiumUpsell&quot;,&quot;action&quot;:&quot;Dropdown&quot;,&quot;nofollow&quot;:0}">
+            <span class="user-symbol premium mark-small"></span>
+            Buy Core Membership</a></li>
+        </ul></nav></div>
+        <a class="oh-l oh-touch" href="https://shop.deviantart.com" data-ga_click_event="{&quot;category&quot;:&quot;Retail&quot;,&quot;action&quot;:&quot;shoplink_appbar&quot;,&quot;nofollow&quot;:0}">Shop</a></td>
+        <td id="oh-menu-mobile" class="oh-keep"><a class="oh-l" href="https://forum.deviantart.com" data-ga_click_event="{&quot;category&quot;:&quot;HeaderNav&quot;,&quot;action&quot;:&quot;click_forum_app&quot;,&quot;nofollow&quot;:0}">Forum</a></td>    <td id="oh-menu-more" class="oh-keep oh-hasmenu oh-hashover">
+            <div class="oh-menu-ctrl iconset-more">
+        <nav class="oh-menu">
+            <ul class="column oh-menu-list">
+                        <li class="oh-menu-list-item">
+        <a class="mi " href="https://groups.deviantart.com" appid="44"><i class="i42"></i>Groups</a></li>                        <li class="oh-menu-list-item">
+        <a class="mi " href="https://forum.deviantart.com/" appid="6"><i class="i13"></i>Forum</a></li>                        <li class="oh-menu-list-item">
+        <a class="mi join-link" href="https://www.deviantart.com/join?joinpoint=menu_app" appid="4" data-dwait-deps="jms/pages/signup.js" data-dwait-click="null"><i class="i4"></i>Chat</a></li>                        <li class="oh-menu-list-item">
+        <a class="mi " href="https://www.deviantart.com/journals/" appid="3"><i class="i51"></i>Journals</a></li>                                        <li class="oh-menu-list-item">
+        <a class="mi " href="https://wallpaper.deviantart.com/?q=" appid="34"onclick="this.href=this.href+((window.devicePixelRatio>=2)
+                                        ?(window.devicePixelRatio*screen.width+'x'+window.devicePixelRatio*screen.height)
+                                        :(screen.width+'x'+screen.height)); this.removeAttribute('onclick')"><i class="i40"></i>Wallpaper</a></li>                        <li class="oh-menu-list-item">
+        <a class="mi " href="https://portfolio.deviantart.com" appid="42"><i class="i45"></i>Portfolio</a></li>            </ul>
+            <ul class="column oh-menu-list">
+                        <li class="oh-menu-list-item">
+        <a class="mi " href="https://www.deviantart.com/critiques/" appid="40"><i class="i44"></i>Critiques</a></li>                        <li class="oh-menu-list-item">
+        <a class="mi " href="https://www.deviantart.com/newest/?q=special:critiquable" appid="41"><i class="i44"></i>Critiqueable</a></li>                        <li class="oh-menu-list-item">
+        <a class="mi " href="https://www.deviantart.com/random/deviant" appid="23"><i class="i28"></i>Random Deviant</a></li>                        <li class="oh-menu-list-item">
+        <a class="mi " href="https://www.deviantart.com/random/deviation" appid="24"><i class="i28"></i>Random Deviation</a></li>                        <li class="oh-menu-list-item">
+        <a class="mi " href="https://www.deviantart.com/random/group" appid="45"><i class="i28"></i>Random Group</a></li>                                        <li class="oh-menu-list-item">
+        <a class="mi " href="https://deviantart.wixanswers.com/en/" appid="10"><i class="i21"></i>Help & FAQ</a></li>            </ul>
+                    </nav>
+    </div>
+            <a class="oh-l oh-touch join-link" href="https://www.deviantart.com/join?joinpoint=header" data-dwait-deps="jms/pages/signup.js" data-dwait-click="null">More</a>
+    </td>
+            <td id="oh-menu-submit" class="oh-keep">
+            <a class="oh-l join-link" href="https://www.deviantart.com/join?joinpoint=header">
+                <span>Submit</span>
+            </a>
+        </td>
+        <td class="oh-gap">&nbsp;</td><td id="oh-menu-join" class="oh-keep oh-hashover"
+        ><a class="oh-l join-link" href="https://www.deviantart.com/join" data-ga_click_event="{&quot;category&quot;:&quot;Join&quot;,&quot;action&quot;:&quot;LoginBar&quot;,&quot;nofollow&quot;:0}"  data-sigil="click-event-tracker" data-meta="0.0">Join</a></td>
+        <td id="oh-menu-join" class="oh-keep oh-hashover"
+        ><a class="oh-l" id="header-login-link" href="https://www.deviantart.com/users/login" data-ga_click_event="{&quot;category&quot;:&quot;LoginLink&quot;,&quot;action&quot;:&quot;LoginBar&quot;,&quot;nofollow&quot;:0}"  data-sigil="click-event-tracker" data-meta="0.1">Login</a></td>
+    </tr></table></header><div id="output">        <div class="dev-page-container bubbleview" style="">
+        <script type='text/javascript' id='dwaitdatex-5a762d0fbcf97'>
+(function(){
+    function dwaitdatex_5a762d0fbcf97(DWait) {
+        var DWaitReady = false
+        ,context = this
+        ,cb = function() {
+            DWaitReady = true;
+            var elem = document.getElementById('dwaitdatex-5a762d0fbcf97');
+            context = elem ? elem.parentNode : context;
+            (function(){ PubSub.publish('DeviationAds.init'); }).apply(context);
+        };
+        DWait.ready(["jms/lib/pubsub.js", "jms/pages/deviation/dev-page-ads.js"], cb);
+    }
+
+    function load() {
+        if (window.DWait) {
+            dwaitdatex_5a762d0fbcf97(DWait);
+        } else {
+            setTimeout(load, 100);
+        }
+    }
+
+    load();
+})();
+</script>    <div class="dp-ad-chrome atf-right-300x250 ">
+            <div class="ad-wrapper" style="width:300px; min-height:250px">
+        <iframe scrolling="no" frameborder="0" data-da-ad="1" name="GBFTV1sCQF9NQQceRxxAREBREAheVQ4WXB0VVUtBFA0VQRICQRYXABpBEANWVR1SXFZZW10WWANYXURVHxNOEApHVRVWCw0OXwZAXFFQXEJWRB4QXFVAX0ITRFlJVBtYOAAACBlWV1VrT0AVUkNGWFBcEAgaBVJVAQIAAG8eWgNOQ0VaGFZSVQNVUFAFBgEFAgoHBA8WTkdKXVhEEQsbAxdVb0pcAwoRaVBSVk8DBQFsTwVtXFEUDFhFXl9dbkkFTkNGGhlGAwFDCgZEDRNRVR5YRlQVRgsCUUUaAwMBQVBWAx0BAVZQVhRPQAdTQlVfQFwQCEMWAwFKVFlDVm5aCgJdXl1ZOwsBRUFYRAEGCQcLCwUHAQVASRtWWF9UXVw9C1peTEZGWEdVFhESWFxZS1JNW11WGBEOUF9EHEBISg8MXVlMWhZOF1cKDAtSRVVDERUQVVdbBQlcblxHEQsbARZARFdYDRgEQgoNCBtCW1hdSh5BQUcPCldYQ19BHUsDCl1dXUEBEEcaQQUJWFZcVGxSRW1MTRIAGwsVUkFeWAZBThwaUQVAX01BIQdDVFdeQUAQCBp3FxZNXloSHxNqFwFwUUwXXjlHRQgLCEQTHBNAQEFfV1oLEVZDFRwRQ1gLDV5VTFAWQDgaQS4JUFZVVXpXEAgaeg1HFRNHUVRUUAZBCQcKB1BRXANQUUoVVVFYX0BbX0gWWFcBHRVDVkJKCw5DEgIDSEANVxAKElZWQxMJG1ZbS0QOBEAdW1FGX1oKT19ZWkcFEBwaDQMVVh1CUFpXX1dMURBJS15UW1ZFFRETUlNdTUZOR0UGARJeXl4TCRtWV05dAxFQXlkSTh0bEwARCgkZRgQKRAAHRA1XUV1AXB4QWVcBRwNXVlxAVBVAAldUUUENDQtXDz0VXktVQhEDaWkLBFJJDwEHbW4dGwUTR29LU0ZYEUQWB0oVQlFXVl9AU1VRBkcDABsSQFdmCwdWXkwXXkAEUk4DElEcQlhUUUYfCwRSHQsEBx0KBQtQUBEcGkYCPRZXBQdEDUVCRFYVEEdKWEBfG1lDRENCHFEiFgJ+EFYkClUXDRZCQkBDXE1XW1ZHTAFcR15RXUVYEBcdU1dYQVAjVxEWQwV3fFBGV1FafF0RFVVQTh1FABRXTgQCCgFXW1AFUEBKFUFRVlZmQVNeURYcGwsVQ1JXXEBPEVRZRRxAX01BEEQNEwUJBlQCBwtVBgZbVVUEUAVaVlRSBllRVVAEUwIAXlYJAVdSWhAeGlBAXxtXA1UAB1pTW1BSXARWUwMAAVdRDgJVVwUIBQoNDQBXCBMbEkUTA0AHVkZRVBALClhBTkRUEwoFBQoFCg8CVFVEHRVSWlVdBxFAEgJORhAMFFkZRERYRFQRAwMDCgZOR0NeWVURCwhSUwoHABlGEQxMBkBcBgQcE1JaRhACBVNUCR0VQ1ZWVAcNRxICFxERRxpBEAsVCwAfCwxPHhpbGkcDShVRUFJNQFkAHBpUEQsBFFlWXgYGBAkfG0BfGg5SSwEEShwRQUwAQQlLGkURACxSQVhUAwADAR8bQVtMUSsBGwsECQMBCU5BWFFcfABAXwNVW1UOHRJaUl1GS0hRQF8IHRVbUlVOCwdHWBoPV1JVGkEJB1NZVVhUUUYQAgZXVRUTXFFXV1UNDEESAgVKUlQaQREDUFxVX0cbCBBNR0BJG0NaEgkBF1seHxJbRkZYHhQQCxJSEwoDAgwLAgoYQAFfQWhGUkMbWEFQQ2dWFA9HGkERClhFEgsBRB4QWVsORwNKFVlXEwNAUAYCCAVcWjkZUz5JBgYAEx8bQF8aDlJLAEwbEkBfW0BZSBJRUUZYR1dVB18AVVMECwwKBA8GVlEMAlIDER0bFgZARBoPVE5HQQoGEl8TCgIDCR4QUFELAlFFFQoBBAkfTxFRSEVGWB4UCgZEDQQGBwcLBAJFGEAWT18VCkgTUAZBCRILBFZaUw9BTkRAWFRFWxsIAQgETkdRVF5XW0UbWFEGABQXEAcWQkFYVkodElBJVxAIQxYLARsLFQMAAwtAHh8STFlGWB4UCgZEDRNUVEVQU1xMVRARZlVSQ1hFVhI8AAAITVZXVWkCAAlBVERZVl9dXlwWTkdNVEREEQsJTkFEWVxBDEBfBVNSShVZVVhUUUYQAgZXVUQdFVJBRRtYGBFZXBdeQFQEUltWDgkFEx8bRldLQEBfCR0VQl4TA1JNC01FSEhABgVTWlNTU1UHUFtUBQkEU1YAAwUIB1NcW1IEAAsEXQBHDBhAAFJdXFARA0kQTlkROl9UVkRGQ1wRQQlLGlIBDTpUDw0FXFRCEwkIHhBUWwUMV25EVVBESwsXSm9QUAUGAEQQQFwGHRJQV0ptVllrEQRfVFFCUlxcQFkCHBpTCxAGUw0NBVwTCgAfG1NWS2sBBFRBVllUX2YACldUXUdGWFRLHh8b" data-ad-id="ad-atf-right-300x250-94223" data-da-bidder="1" data-da-safety="safe" sandbox="allow-same-origin allow-forms allow-popups allow-scripts allow-pointer-lock" class="hidden-frame-bidder ad-frame" data-da-safeframe="1" style="width:300px;height:250px;" src="https://www.da-ads.com/da_safeframe.html?cb=1517520998#!/art/LaunchDisplay-v1-5-722439533" webkitallowfullscreen mozallowfullscreen allowfullscreen onload="this.style.visibility='visible';"></iframe><div id="ad-atf-right-300x250-94223-safe" data-da-safety="safe" data-ad-id="ad-atf-right-300x250-94223" data-da-ad="1" data-da-bidder="1"  style="display:none;">        <script>
+            googletag = window.googletag || {};
+            googletag.cmd = googletag.cmd || [];
+            googletag.cmd.push(function() {
+                 
+                googletag.display("ad-atf-right-300x250-94223-safe");
+            });
+        </script>
+        </div>    </div>
+                </div>
+        <div class="dp-ad-chrome btf-right-300x250 ">
+            <div class="ad-wrapper" style="width:300px; height:250px">
+        <iframe scrolling="no" frameborder="0" data-da-ad="1" name="GBFTV1sCQF9NQQceRxxAREBREAheVQ4WXB0VVUtBFA0VQRICQRYXABpBEANWVR1SXFZZW10WWANYXURVHxNOEApHVRVWCw0OXwZAXFFQXEJWRB4QXFVAX0ITRFlJVBtYOAAACBlWV1VrT0AVUkNGWFBcEAgaBVJVAQIAAG8eWgNOQ0VaGFZSVQNVUFAFBgEFAgoHBA8WTkdKXVhEEQsbABdVb0pcAwoRaVBSVk8DBQFsTwVtXFEUDFhFXl9dExVAAldFUVFGWEdXB08EQ1cdQ1peWkYVB1JVQQMCAB4IDVBRABIUFwUGFlMNEQMVC0sTUl1BV1ZHBzpaWVZeXVRVPQpXQxoPRlRSD1VaVAAECQARFRBVV1sFCVxuX1ldRUpAWRFTTUYQDQhfGQMSXl5eHUBSW1xLGBEcSlxYXlpFVhBPQVFRWwkHEVMRQEoVVl9eVFVXbVNDQF8bUkJDR15UCxlSRFFaCk4WXQoMFRtCSUJeVlxbTFsQSUtQXl5eVE0HEREcGlILDQJaBj0NQG5ESENcEAgaVhAKWFUVTR8TXQNBCUsadgUWAFEMEB8VCxJyRkpGXVUWTkdqRFVzUkUbWDgRQ1NcChFHGkERH0RcX19aTV1AGhhAF1hYWV1WRVwQQW4cGnkLBQJTBysIFQsSf1wbHhBIVQUAUFUVCgQDC1ZQCgULBkhAAVcKDh9eXEATCQsKHhpHBxZKWFpAEQsPTkFbUUtdEAMCRUFYRFNYQ0FfWEseVFUXC1pZG1xaU0sDEUocVlQXA0lEAgsIWlREVEEVQF1bXwcRFUJHUVBUQUBPEUNdVhALClhBWERTVEZYUk1bXVYWH0kbQFQSCQAVQAVcQltQRlgDVw8RAxsTUVJQGwhUWVgRABUTVlRXWE0LDF1RVGoXCx9TEEBcbGwcE1RJRm1LUkBfTUNCVR8TSgMFVlZKVAkHARRZU0oVQlZuWl1XXEwWWEdYVRpSR1cUEApUWEwYV1JVTlFXVhoIBAMBChAeGkcEOkpQUVURC00QFlYcGkAWDkcMQQoSQ0FDFAB4FwB+EVAjVlJDX0NEShIRXERdXAoRS1IGFA9WX0RQQU0cUVdZR1d/UEVEFgN/LgJGXltdIAsWRg8DHxpHARwGFAUACgBRXAwCBBIfE0kDBFZvS1QCBxFPQVhERFBWVBEVEFZZRBpHA0oVQhELG1dbBl0IAFcDAVUBBgQDUgRSBw5TBFlQU1dYVFZSC1ABUwVSUxoZRgZHDEEEUlICBlICAVFQXAVQVF8HVQUECAoHBQUBDw1RWwcEUkBKFUcSCxFdV0RRVRYMVl8VHBFSG1hXBQMPDVNUUwYeTkRVWFRVVktBEAJPQBdQEw1LEUJQFgYRCgkEVlBJFBkNCFITCgUCAQMCCBhAFlBLUhIJAAxOQVJTTBdeU1QHU05ERFRXXFZXRhACFhcWGx0VQl4TA1JNCwVFGUYNHRRZGURWUlNFEQMBHhpVFwxdEw0ECwAOVlofEkpYRlhVGFtXGxsTQERRGwhJGkQXB3BVFQoBBQhRUx8SS1wQByxSQVhVDgEAAR8bWVNcfQZHAwQBCQAIFUAIUlRMTBQHRwxSTkRcUFRGWl1GWhoOUVUJHRVbUlVRBwpUWEwXXlBQBk9ADVZVVl1cVkAQAgRMVQgdFUNWVlQHDUcSAhcREUcaQRALFQsAHwpEHhBbR0BfQhNEWUdUG1hRAgUBBVFOR1IFEjlBUEITCRtRQWdXEggbHRVDX15NQFkGTRQXBQ0JFFkZRF5VEgsRCgcFDgRQUGUeB2wcAA5SQR8SSlhGWFUYWh9KFUJeUxEDSRBRUEBfGwEAUQEFDgAAVwFaA1NVXA5VWwQHExwTR1xBRhoOUkkbRl5UR1kbWFADABQXDAcMUQsWRA0DBQFOFRBTSERAX0ITXlQRCwxUVQcDCQEZTkdFFQxEDUoSWFcbCBALBVBdDgEVHBFGUAYXWxICBlRSSRQLBw9QWUQTCQsHAhQWFgBKRRUKA0wVQAJJXhoPH0AMUkFYRAQCAgMRRB4QTFhAX19QW0NWHRsAEUcSAlMFDhZTHh9KFVIDAQsMVlBdAgEHXwYGAAICAFBRCwRaUF1TUgZQU19VEwpKEV9XXlRVQF9CE0FdQG5fBwJHRUpQF0BfTUEFA1huUl1cWllXShZYVBUTW19UWFc9EFZTTUcNFhxpCwcHU1RCQhEDAx4aVQYWZlVWb0BQXwcFQVFVUEZYVBpBBAlFUlVfXFpZEAIFTkdYVURvUFBUEgJaV1ZqBgsBUgYQRA0ATUxORA==" data-ad-id="ad-btf-right-300x250-94223" data-da-bidder="1" data-da-safety="safe" sandbox="allow-same-origin allow-forms allow-popups allow-scripts allow-pointer-lock" class="hidden-frame-bidder ad-frame" data-da-safeframe="1" style="width:300px;height:250px;" src="https://www.da-ads.com/da_safeframe.html?cb=1517520998#!/art/LaunchDisplay-v1-5-722439533" webkitallowfullscreen mozallowfullscreen allowfullscreen onload="this.style.visibility='visible';"></iframe><div id="ad-btf-right-300x250-94223-safe" data-da-safety="safe" data-ad-id="ad-btf-right-300x250-94223" data-da-ad="1" data-da-bidder="1"  style="display:none;">        <script>
+            googletag = window.googletag || {};
+            googletag.cmd = googletag.cmd || [];
+            googletag.cmd.push(function() {
+                 
+                googletag.display("ad-btf-right-300x250-94223-safe");
+            });
+        </script>
+        </div>    </div>
+                </div>
+    <div data-gmiclass="DeviationPageView"
+               class="dev-page-view view-mode-normal"
+             gmi-deviationid="722439533" gmi-userid="44561507">            <div class="dev-view-main-content">
+                        <div class="dev-view-deviation">
+                    <img collect_rid="1:722439533" src="https://pre00.deviantart.net/7fd4/th/pre/f/2018/034/7/d/launchdisplay_v1_5_by_octopusproteins-dby4dwt.png" data-embed-type="deviation" data-embed-format="thumb" data-embed-id="722439533"              width="829"
+             height="964"
+             alt="LaunchDisplay v1.5 by OctopusProteins"             class="dev-content-normal ">
+        <img collect_rid="1:722439533" src="https://orig00.deviantart.net/487b/f/2018/034/7/d/launchdisplay_v1_5_by_octopusproteins-dby4dwt.png" data-embed-type="deviation" data-embed-format="thumb" data-embed-id="722439533"              width="875"
+             height="1017"
+             alt="LaunchDisplay v1.5 by OctopusProteins"             class="dev-content-full ">        </div>
+                                <div class="dev-view-about">
+                    <div class="dev-view-about-content">
+                    <div class="dev-title-container "><span class="dev-title-avatar"><a target="_self" href="https://octopusproteins.deviantart.com/" data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;description_avatar&quot;,&quot;nofollow&quot;:0}"><img class="avatar" src="https://a.deviantart.net/avatars/o/c/octopusproteins.jpg?1" alt=":iconoctopusproteins:" title="OctopusProteins" /></a></span>        <h1>
+        <a class="title" href="https://octopusproteins.deviantart.com/art/LaunchDisplay-v1-5-722439533" data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;description_title&quot;,&quot;nofollow&quot;:0}">LaunchDisplay v1.5</a> <small class="author"><span class="by">by</span> <span class="username-with-symbol u"><a class="u regular username" href="https://octopusproteins.deviantart.com/" data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;description_author&quot;,&quot;nofollow&quot;:0}">OctopusProteins</a><span class="user-symbol regular" data-quicktip-text="" data-show-tooltip="" data-gruser-type="regular"></span></span></small></h1>    <a class="devwatch dev-page-watch-button"
+        devwatch="OctopusProteins"
+        title="Watch this deviant"
+        href="https://www.deviantart.com/watching/"
+        data-is_watched="0"
+        data-username="OctopusProteins"
+        data-symbol="~"
+        data-userid="44561507"
+        data-iconselector=".dev-title-avatar .avatar"
+        data-is_group="false"
+        data-ga_source="deviation"
+        data-dwait-deps="jms/pages/devwatch-editor.js"
+        data-dwait-click="DevWatchEditor.do_watch"
+    >            <i class="icon i18"></i><span>Watch</span><b></b>        </a><div class="dev-about-cat-cc"><span class="dev-about-breadcrumb"><span class="crumb" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" class="h" href="https://www.deviantart.com/customization/" data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;description_breadcrumb&quot;,&quot;nofollow&quot;:0}"><span itemprop="title">Customization</span></a></span> / <span class="crumb" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" class="h" href="https://www.deviantart.com/customization/skins/" data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;description_breadcrumb&quot;,&quot;nofollow&quot;:0}"><span itemprop="title">Skins & Themes</span></a></span> / <span class="crumb" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" class="h" href="https://www.deviantart.com/customization/skins/sysmonitor/" data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;description_breadcrumb&quot;,&quot;nofollow&quot;:0}"><span itemprop="title">System Monitoring</span></a></span> / <span class="crumb" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" class="h" href="https://www.deviantart.com/customization/skins/sysmonitor/rainmeter/" data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;description_breadcrumb&quot;,&quot;nofollow&quot;:0}"><span itemprop="title">Rainmeter</span></a></span></span><span class="cc-copy">&copy;2017-2018 <span class="username-with-symbol u"><a class="u regular username" href="https://octopusproteins.deviantart.com/" data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;description_copyright&quot;,&quot;nofollow&quot;:0}">OctopusProteins</a><span class="user-symbol regular" data-quicktip-text="" data-show-tooltip="" data-gruser-type="regular"></span></span></span></div><div class="dev-about-tags-cc dev-about-breadcrumb"><a class="discoverytag" href="https://www.deviantart.com/tag/display" data-canonical-tag="display"><span class="discoverytag-hash">#</span>display</a> <a class="discoverytag" href="https://www.deviantart.com/tag/launch" data-canonical-tag="launch"><span class="discoverytag-hash">#</span>launch</a> <a class="discoverytag" href="https://www.deviantart.com/tag/library" data-canonical-tag="library"><span class="discoverytag-hash">#</span>library</a> <a class="discoverytag" href="https://www.deviantart.com/tag/nasa" data-canonical-tag="nasa"><span class="discoverytag-hash">#</span>nasa</a> <a class="discoverytag" href="https://www.deviantart.com/tag/rainmeter" data-canonical-tag="rainmeter"><span class="discoverytag-hash">#</span>rainmeter</a> <a class="discoverytag" href="https://www.deviantart.com/tag/rocket" data-canonical-tag="rocket"><span class="discoverytag-hash">#</span>rocket</a> <a class="discoverytag" href="https://www.deviantart.com/tag/spacex" data-canonical-tag="spacex"><span class="discoverytag-hash">#</span>spacex</a> </div></div><div class="">
+                        <div class="dev-description"  data-gmiclass="DuperbrowseFreeformCustomStream" >        <div class="text-ctrl">
+                <div class="text block">This is a skin to display the next 5 launches as provided by the LaunchLibrary API. www.launchlibrary.net<br /><br /><br />v1.5-----------------------------------------------<br />Changed video icon to be more clear<br />Enlarged video icon<br />Added image dimming when video link not available<br />Added link formatting to ensure the link is valid in most web browsers (tested on chrome)<br />General bugfixes<br /><br />v1.4-----------------------------------------------<br />Update Variables.inc file<br />THIS WILL RESET YOUR PREFERENCES. Take note of them!<br />This will not happen in future updates.<br /><br />v1.3-----------------------------------------------<br />Added font&nbsp;customization&nbsp;options<br />Added a subtle background meter to support future releases<br />Changed color scheme to a more neutral one (original colors still available; see Variables.inc)<br />Performance optimizations<br /><br />v1.2-----------------------------------------------<br />Fixed variable continuity issues<br />Fixed update rate issues<br /><br />v1.1-----------------------------------------------<br />CUSTOM COLOR IS NOW SUPPORTED: edit the Variables.inc located in @ Resources folder<br /><br />IN PROGRESS:<br />Resizing<br /><br />Post any issues and suggestions in the comments, and I'll have a look.</div>
+        </div></div>
+        </div><script type='text/javascript' id='dwaitdatex-5a762d0fbed35'>
+(function(){
+    function dwaitdatex_5a762d0fbed35(DWait) {
+        var DWaitReady = false
+        ,context = this
+        ,cb = function() {
+            DWaitReady = true;
+            var elem = document.getElementById('dwaitdatex-5a762d0fbed35');
+            context = elem ? elem.parentNode : context;
+            (function(){ PubSub.publish('DuperbrowseStreamLoader.load', {stream: 'freeform.custom'}); }).apply(context);
+        };
+        DWait.ready(["jms/pages/duperbrowse/loader/stream.loader.js"], cb);
+    }
+
+    function load() {
+        if (window.DWait) {
+            dwaitdatex_5a762d0fbed35(DWait);
+        } else {
+            setTimeout(load, 100);
+        }
+    }
+
+    load();
+})();
+</script><div class="dev-page-below-tabs">
+            <a id="comments"></a>    <div class="talk-tower tower-commentcontrol" name="gmi-CCommentMaster" id="gmi-CCommentMaster" data-gmiclass="CCommentMaster"><form class="f" id="cooler-comment-submit" action="https://comments.deviantart.com/post" method="post" onsubmit="if (this.body.value.length == 0 || !this.body.value.match(/[^\s]/)) { alert ('You must type something.'); return false; } var now = (new Date).valueOf(); if (now > (window.LAST_FORM_POST || 0)) { window.window.LAST_FORM_POST = now + 3000; return true } else { return false }">
+
+    <div class="ccomment-form" style="padding-bottom:0"  name="gmi-TalkPostWrapper" id="gmi-TalkPostWrapper" data-gmiclass="TalkPostWrapper" gmi-typeid="1" gmi-itemid="722439533" gmi-splitid="722439533" gmi-ownerid="44561507">
+    <input type="hidden" name="ref" value="https://octopusproteins.deviantart.com/art/LaunchDisplay-v1-5-722439533" />
+    <input type="hidden" name="typeid" value="1" />
+    <input type="hidden" name="itemid" value="722439533" />
+    <input type="hidden" name="splitid" value="722439533" />
+    <input type="hidden" name="ownerid" value="44561507" />
+    <input type="hidden" name="private" value="0" />
+    <input type="hidden" name="validate_key" value="1517694223" />
+    <input type="hidden" name="validate_token" value="3d29e4feeb0c1b76402e" />
+            <img style="display:none" class="cx" src="https://st.deviantart.net/minish/messages/neutral-x.gif" alt="x"/>
+        <a target="_self" href="#" ><img class="avatar" src="https://a.deviantart.net/avatars/default.gif" alt="" title="" /></a>        <div class="h">
+            <div class="name" style="display:none">
+                <i class="l"></i>
+            </div>
+            <div class="ccname">
+                <span class="ccusername"></span>
+                <span class="cclabel">Add a Comment:</span>
+            </div>
+            <div class="cctextarea"><div class="cctextarea-ctrl">
+                <div class="previewbox" style="display:none"></div>
+                <div class="inputblocker" style="display:none"></div>
+                <textarea class="text writeranywhere " tabindex="1" data-type="comment"
+                    placeholder=""
+                    id="commentbody" name="body" rows="15" cols="60"></textarea>
+                <div style="word-wrap: break-word; font-weight: normal; width: 575px; font-family: verdana, sans-serif; line-height: 17px; font-size: 12px; padding-left: 3px; padding-bottom: 3px; padding-right: 110px; padding-top: 3px; position: absolute; display: none; ">&nbsp;</div>
+            </div>
+            <i class="l"></i>
+            </div>
+        </div>
+                <div class="inputs" style="position:relative;text-align:right">
+            <div class="scripted">
+                <a href="#" class="smbutton smbutton-pale smbutton-big preview" tabindex="3" onclick="GMI.up(this).previewClick();return GMI.evCancel()"><span>Preview</span></a>
+                <span style="display: inline-block; width: 10px">&nbsp;</span>
+                <a href="#" class="smbutton smbutton-green smbutton-big comment-submit" tabindex="2" onclick="GMI.up(this).sendClick();return GMI.evCancel()"><span class="post">Submit Comment</span></a>
+            </div>
+            <div class="unscripted">
+                <input class="post comment-submit" type="submit" value="Send" tabindex="4">
+            </div>
+            <div style="position:absolute;left:0;_left:-8em;top:4px;font-size:8.25pt">
+                            </div>
+        </div>
+
+    </div>
+    </form></div><a id="comments"></a>    <div class="talk-tower tower-commentcontrol" name="gmi-CCommentMaster" id="gmi-CCommentMaster" data-gmiclass="CCommentMaster"><div class="drawplz-attachment-ctrl iconset-itscoming" style="display:none">
+        <a style="padding-left:26px !important" href="" class="gmbutton2 gmbutton2g"><i class="i1 icon"></i> Load All Images<b></b></a>
+        </div><div class="ccomment-thread" name="gmi-CCommentThread" id="gmi-CCommentThread" data-gmiclass="CCommentThread" gmi-order="2" gmi-offset="0" gmi-count_per_page="50" gmi-typeid="1" gmi-itemid="722439533" gmi-rootid="" data-dwait-deps="jms/pages/ccommentthread.js" data-dwait-domready="ccommentthread_wake_and_toggle">
+    <div class="ccomment ch "  name="gmi-CComment" id="gmi-CComment" data-gmiclass="CComment" gmi-commentid="4526782665" gmi-itemid="722439533" gmi-typeid="1" gmi-private="0" gmi-hidetext="Owner" gmi-authorid="20384185" data-dwait-deps="jms/pages/ccomment.js" data-dwait-domready="GMI.wake">
+        <div class="ch-ctrl">
+            <i class="l"></i><span class="cc-avatar"><a target="_self" href="https://sequito-equitis.deviantart.com/" ><img class="avatar" width="50" height="50" src="https://a.deviantart.net/avatars/default.gif" alt=":iconsequito-equitis:" title="Sequito-Equitis" /></a></span>                    <div class="ctext ch">
+                        <div class="ch-ctrl cc-in">
+                            <div class="cc-meta">
+
+        
+                <span class="cc-name"><span class="username-with-symbol u"><a class="u regular username" href="https://sequito-equitis.deviantart.com/">Sequito-Equitis</a><span class="user-symbol regular" data-quicktip-text="" data-show-tooltip="" data-gruser-type="regular"></span></span></span>
+                <span class="cc-featured">Featured By Owner</span>
+        <span class="cc-time"><a title="Originally posted 5 weeks and 1 day ago (at 10:11:59 PM), last edited 5 weeks and 1 day ago (at 10:12:24 PM)" href="https://comments.deviantart.com/1/722439533/4526782665"><span class="cc-edited">Edited</span> Dec 28, 2017</a></span>
+                <span class="cc-userdetails">        </span>
+            </div>
+                            <div class="text text-ii">Took it for a test drive.&nbsp; Snazzy display. <br /><br />Not something I'll use (my desktop already has fences, snackr, Rainmeter, and Rainlendar competing for space) but changing the fonts to match my other widgets was fairly straightforward.<br /><br />So very cool and fairly easy to customize -- a very neat rmskin!</div>
+                    </div>
+                </div>
+                <a class="gmbutton2 reply" href="https://comments.deviantart.com/1/722439533/4526782665#reply" onclick=" if (window.GMI) return GMI.up(this, 'CComment').replyClick() ">Reply<b></b></a>        </div>
+    </div><div class=nest>
+    <div class="ccomment ch "  name="gmi-CComment" id="gmi-CComment" data-gmiclass="CComment" gmi-commentid="4527471838" gmi-itemid="722439533" gmi-typeid="1" gmi-private="0" gmi-hidetext="Owner" gmi-authorid="44561507" data-dwait-deps="jms/pages/ccomment.js" data-dwait-domready="GMI.wake">
+        <div class="ch-ctrl">
+            <i class="l"></i><span class="cc-avatar"><a target="_self" href="https://octopusproteins.deviantart.com/" ><img class="avatar" width="50" height="50" src="https://a.deviantart.net/avatars/o/c/octopusproteins.jpg?1" alt=":iconoctopusproteins:" title="OctopusProteins" /></a></span>                    <div class="ctext ch">
+                        <div class="ch-ctrl cc-in">
+                            <div class="cc-meta">
+
+        
+                <span class="cc-name"><span class="username-with-symbol u"><a class="u regular username" href="https://octopusproteins.deviantart.com/">OctopusProteins</a><span class="user-symbol regular" data-quicktip-text="" data-show-tooltip="" data-gruser-type="regular"></span></span></span>
+                <span class="cc-featured">Featured By Owner</span>
+        <span class="cc-time"><a title="5 weeks ago (at 6:21:57 AM)" href="https://comments.deviantart.com/1/722439533/4527471838">Dec 30, 2017</a></span>
+                <span class="cc-userdetails"><span class="cc-seperator">&nbsp;</span>New Deviant        </span>
+            </div>
+                            <div class="text text-ii">Thanks for checking it out! Anything you’d recommend adding or improving on? (Besides more customization-that’s in the works <img src="https://e.deviantart.net/emoticons/w/wink.gif" width="15" height="15" alt=";)" data-embed-type="emoticon" data-embed-id="387" title=";) (Wink)"/></div>
+                    </div>
+                </div>
+                <a class="gmbutton2 reply" href="https://comments.deviantart.com/1/722439533/4527471838#reply" onclick=" if (window.GMI) return GMI.up(this, 'CComment').replyClick() ">Reply<b></b></a>        </div>
+    </div><div class=nest>
+    <div class="ccomment ch "  name="gmi-CComment" id="gmi-CComment" data-gmiclass="CComment" gmi-commentid="4527478070" gmi-itemid="722439533" gmi-typeid="1" gmi-private="0" gmi-hidetext="Owner" gmi-authorid="20384185" data-dwait-deps="jms/pages/ccomment.js" data-dwait-domready="GMI.wake">
+        <div class="ch-ctrl">
+            <i class="l"></i><span class="cc-avatar"><a target="_self" href="https://sequito-equitis.deviantart.com/" ><img class="avatar" width="50" height="50" src="https://a.deviantart.net/avatars/default.gif" alt=":iconsequito-equitis:" title="Sequito-Equitis" /></a></span>                    <div class="ctext ch">
+                        <div class="ch-ctrl cc-in">
+                            <div class="cc-meta">
+
+        
+                <span class="cc-name"><span class="username-with-symbol u"><a class="u regular username" href="https://sequito-equitis.deviantart.com/">Sequito-Equitis</a><span class="user-symbol regular" data-quicktip-text="" data-show-tooltip="" data-gruser-type="regular"></span></span></span>
+                <span class="cc-featured">Featured By Owner</span>
+        <span class="cc-time"><a title="5 weeks ago (at 6:41:29 AM)" href="https://comments.deviantart.com/1/722439533/4527478070">Dec 30, 2017</a></span>
+                <span class="cc-userdetails">        </span>
+            </div>
+                            <div class="text text-ii">Tough question as you've polished this up nice and shiny already.<br /><br />Perhaps consolidating the different font sizes as variables in just one place?<br /><br />I used a text editor find/replace function to do font scale, but that could confuse some users.</div>
+                    </div>
+                </div>
+                <a class="gmbutton2 reply" href="https://comments.deviantart.com/1/722439533/4527478070#reply" onclick=" if (window.GMI) return GMI.up(this, 'CComment').replyClick() ">Reply<b></b></a>        </div>
+    </div><div class=nest>
+    <div class="ccomment ch "  name="gmi-CComment" id="gmi-CComment" data-gmiclass="CComment" gmi-commentid="4527479449" gmi-itemid="722439533" gmi-typeid="1" gmi-private="0" gmi-hidetext="Owner" gmi-authorid="44561507" data-dwait-deps="jms/pages/ccomment.js" data-dwait-domready="GMI.wake">
+        <div class="ch-ctrl">
+            <i class="l"></i><span class="cc-avatar"><a target="_self" href="https://octopusproteins.deviantart.com/" ><img class="avatar" width="50" height="50" src="https://a.deviantart.net/avatars/o/c/octopusproteins.jpg?1" alt=":iconoctopusproteins:" title="OctopusProteins" /></a></span>                    <div class="ctext ch">
+                        <div class="ch-ctrl cc-in">
+                            <div class="cc-meta">
+
+        
+                <span class="cc-name"><span class="username-with-symbol u"><a class="u regular username" href="https://octopusproteins.deviantart.com/">OctopusProteins</a><span class="user-symbol regular" data-quicktip-text="" data-show-tooltip="" data-gruser-type="regular"></span></span></span>
+                <span class="cc-featured">Featured By Owner</span>
+        <span class="cc-time"><a title="5 weeks ago (at 6:45:49 AM)" href="https://comments.deviantart.com/1/722439533/4527479449">Dec 30, 2017</a></span>
+                <span class="cc-userdetails"><span class="cc-seperator">&nbsp;</span>New Deviant        </span>
+            </div>
+                            <div class="text text-ii">Yup. That’s what I meant by “more customization” <img src="https://e.deviantart.net/emoticons/s/smile.gif" width="15" height="15" alt=":)" data-embed-type="emoticon" data-embed-id="391" title=":) (Smile)"/> I’ll try and start consolidating most of the variables like size. Thanks for the feedback.&nbsp;</div>
+                    </div>
+                </div>
+                <a class="gmbutton2 reply" href="https://comments.deviantart.com/1/722439533/4527479449#reply" onclick=" if (window.GMI) return GMI.up(this, 'CComment').replyClick() ">Reply<b></b></a>        </div>
+    </div></div></div></div>
+
+</div><div         class="pagination-wrapper " data-sigil="manual-paging"
+     name="gmi-GPager" id="gmi-GPager" data-gmiclass="GPager" gmi-limit="4"><div class="pagination both-paddles-disabled"><ul class="pages"><li class="prev"><a class="disabled"><span>Previous</span></a></li><li class="next"><a class="disabled"><span>Next</span></a></li></ul></div></div><form class="f" id="cooler-comment-submit" action="https://comments.deviantart.com/post" method="post" onsubmit="if (this.body.value.length == 0 || !this.body.value.match(/[^\s]/)) { alert ('You must type something.'); return false; } var now = (new Date).valueOf(); if (now > (window.LAST_FORM_POST || 0)) { window.window.LAST_FORM_POST = now + 3000; return true } else { return false }">
+
+    <div class="ccomment-form" style="padding-bottom:0"  name="gmi-TalkPostWrapper" id="gmi-TalkPostWrapper" data-gmiclass="TalkPostWrapper" gmi-typeid="1" gmi-itemid="722439533" gmi-splitid="722439533" gmi-ownerid="44561507">
+    <input type="hidden" name="ref" value="https://octopusproteins.deviantart.com/art/LaunchDisplay-v1-5-722439533" />
+    <input type="hidden" name="typeid" value="1" />
+    <input type="hidden" name="itemid" value="722439533" />
+    <input type="hidden" name="splitid" value="722439533" />
+    <input type="hidden" name="ownerid" value="44561507" />
+    <input type="hidden" name="private" value="0" />
+    <input type="hidden" name="validate_key" value="1517694223" />
+    <input type="hidden" name="validate_token" value="3d29e4feeb0c1b76402e" />
+            <img style="display:none" class="cx" src="https://st.deviantart.net/minish/messages/neutral-x.gif" alt="x"/>
+        <a target="_self" href="#" ><img class="avatar" src="https://a.deviantart.net/avatars/default.gif" alt="" title="" /></a>        <div class="h">
+            <div class="name" style="display:none">
+                <i class="l"></i>
+            </div>
+            <div class="ccname">
+                <span class="ccusername"></span>
+                <span class="cclabel">Add a Comment:</span>
+            </div>
+            <div class="cctextarea"><div class="cctextarea-ctrl">
+                <div class="previewbox" style="display:none"></div>
+                <div class="inputblocker" style="display:none"></div>
+                <textarea class="text writeranywhere " tabindex="11" data-type="comment"
+                    placeholder=""
+                    id="commentbody" name="body" rows="15" cols="60"></textarea>
+                <div style="word-wrap: break-word; font-weight: normal; width: 575px; font-family: verdana, sans-serif; line-height: 17px; font-size: 12px; padding-left: 3px; padding-bottom: 3px; padding-right: 110px; padding-top: 3px; position: absolute; display: none; ">&nbsp;</div>
+            </div>
+            <i class="l"></i>
+            </div>
+        </div>
+                <div class="inputs" style="position:relative;text-align:right">
+            <div class="scripted">
+                <a href="#" class="smbutton smbutton-pale smbutton-big preview" tabindex="13" onclick="GMI.up(this).previewClick();return GMI.evCancel()"><span>Preview</span></a>
+                <span style="display: inline-block; width: 10px">&nbsp;</span>
+                <a href="#" class="smbutton smbutton-green smbutton-big comment-submit" tabindex="12" onclick="GMI.up(this).sendClick();return GMI.evCancel()"><span class="post">Submit Comment</span></a>
+            </div>
+            <div class="unscripted">
+                <input class="post comment-submit" type="submit" value="Send" tabindex="14">
+            </div>
+            <div style="position:absolute;left:0;_left:-8em;top:4px;font-size:8.25pt">
+                            </div>
+        </div>
+
+    </div>
+    </form>    </div>
+    </div>                    </div>
+                </div>
+            </div>
+                    <div class="dev-view-meta">
+            <div class="dev-view-meta-content">
+            
+    <div class="details-section deviation-share hh deviation-share-new">
+        <div class="social"  name="gmi-ResourceViewShare" id="gmi-ResourceViewShare" data-gmiclass="ResourceViewShare">
+                <script type="text/javascript">
+            function fbs_click(a) {
+                u = location.href;
+                t = document.title;
+                window.open(a.getAttribute('href') + '&t=' + encodeURIComponent(t), 'sharer', 'toolbar=0,status=0,width=626,height=436');
+                return false;
+            }
+        </script>        <a  class="share-button facebook"
+                                           href="http://www.facebook.com/sharer.php?u=https://octopusproteins.deviantart.com/art/LaunchDisplay-v1-5-722439533"
+                                           target="_blank"
+            onclick="PubSub.publish('DaGa.track_social', {
+                network: 'facebook'
+                ,action: 'share'
+                ,target: 'customization/722439533'
+            }); event.cancelBubble=true; return fbs_click(this);"            data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;Share-Facebook&quot;,&quot;nofollow&quot;:1,&quot;label&quot;:&quot;shr-bar&quot;}">
+                <span class="share-verb">Share</span>
+        </a>        <a  name="gmi-ResourceViewShareTumblr" id="gmi-ResourceViewShareTumblr" data-gmiclass="ResourceViewShareTumblr" openurl="http://www.tumblr.com/share/photo?source=https%3A%2F%2Fpre00.deviantart.net%2F7fd4%2Fth%2Fpre%2Ff%2F2018%2F034%2F7%2Fd%2Flaunchdisplay_v1_5_by_octopusproteins-dby4dwt.png&amp;caption=%3Ca+href%3D%22https%3A%2F%2Foctopusproteins.deviantart.com%2Fart%2FLaunchDisplay-v1-5-722439533%22%3ELaunchDisplay+v1.5%3C%2Fa%3E+by+%3Ca+href%3D%22https%3A%2F%2Foctopusproteins.deviantart.com%22%3EOctopusProteins%3C%2Fa%3E&amp;clickthru=https%3A%2F%2Foctopusproteins.deviantart.com%2Fart%2FLaunchDisplay-v1-5-722439533" class="share-button tumblr"
+                                           href="http://www.tumblr.com/share/photo?source=https%3A%2F%2Fpre00.deviantart.net%2F7fd4%2Fth%2Fpre%2Ff%2F2018%2F034%2F7%2Fd%2Flaunchdisplay_v1_5_by_octopusproteins-dby4dwt.png&amp;caption=%3Ca+href%3D%22https%3A%2F%2Foctopusproteins.deviantart.com%2Fart%2FLaunchDisplay-v1-5-722439533%22%3ELaunchDisplay+v1.5%3C%2Fa%3E+by+%3Ca+href%3D%22https%3A%2F%2Foctopusproteins.deviantart.com%22%3EOctopusProteins%3C%2Fa%3E&amp;clickthru=https%3A%2F%2Foctopusproteins.deviantart.com%2Fart%2FLaunchDisplay-v1-5-722439533"
+                                           target="_blank"
+            onclick="PubSub.publish('DaGa.track_social', {
+                network: 'tumblr'
+                ,action: 'share'
+                ,target: 'customization/722439533'
+            });"            data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;Share-Tumblr&quot;,&quot;nofollow&quot;:1,&quot;label&quot;:&quot;shr-bar&quot;}">
+                <span class="share-verb">Share</span>
+        </a><script type='text/javascript' id='dwaitdatex-5a762d0fc1116'>
+(function(){
+    function dwaitdatex_5a762d0fc1116(DWait) {
+        var DWaitReady = false
+        ,context = this
+        ,cb = function() {
+            DWaitReady = true;
+            var elem = document.getElementById('dwaitdatex-5a762d0fc1116');
+            context = elem ? elem.parentNode : context;
+            (function(){ $(':gmi(ResourceViewShareTumblr)').gmi(); }).apply(context);
+        };
+        DWait.ready(["jms/lib/gmi.js", "jms/pages/superbrowse/resview/devbuttons.js", ".domready"], cb);
+    }
+
+    function load() {
+        if (window.DWait) {
+            dwaitdatex_5a762d0fc1116(DWait);
+        } else {
+            setTimeout(load, 100);
+        }
+    }
+
+    load();
+})();
+</script>        <a  class="share-button twitter"
+                                           href="http://twitter.com/share?text=%22LaunchDisplay+v1.5%22+by+OctopusProteins&url=https%3A%2F%2Foctopusproteins.deviantart.com%2Fart%2FLaunchDisplay-v1-5-722439533&related=deviantart"
+                                           target="_blank"
+            onclick="PubSub.publish('DaGa.track_social', {
+                network: 'twitter'
+                ,action: 'share'
+                ,target: 'customization/722439533'
+            });"            data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;Share-Twitter&quot;,&quot;nofollow&quot;:1,&quot;label&quot;:&quot;shr-bar&quot;}">
+                <span class="share-verb">Tweet</span>
+        </a>        <a  class="share-button pinterest"
+                                           href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Foctopusproteins.deviantart.com%2Fart%2FLaunchDisplay-v1-5-722439533&media=https%3A%2F%2Fpre00.deviantart.net%2F7fd4%2Fth%2Fpre%2Ff%2F2018%2F034%2F7%2Fd%2Flaunchdisplay_v1_5_by_octopusproteins-dby4dwt.png&description=LaunchDisplay+v1.5+by+OctopusProteins.deviantart.com+on+%40DeviantArt"
+                                           target="_blank"
+            onclick="PubSub.publish('DaGa.track_social', {
+                network: 'pinterest'
+                ,action: 'share'
+                ,target: 'customization/722439533'
+            });"            data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;Share-Pinterest&quot;,&quot;nofollow&quot;:1,&quot;label&quot;:&quot;shr-bar&quot;}">
+                <span class="share-verb">Pin</span>
+        </a>    <div class="share-button more" data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;ShareDropdownArrow&quot;,&quot;nofollow&quot;:0}">
+        <div class="deviation-share-links-dropdown deviation-share-links-dropdown-new">
+            <div class="buttons">
+                        <a  class="share-button reddit"
+                                           data-title="Share on Reddit"
+                                           href="http://reddit.com/submit?url=https%3A%2F%2Foctopusproteins.deviantart.com%2Fart%2FLaunchDisplay-v1-5-722439533"
+                                           target="_blank"
+            onclick="PubSub.publish('DaGa.track_social', {
+                network: 'reddit'
+                ,action: 'share'
+                ,target: 'customization/722439533'
+            });"            data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;Share-Reddit&quot;,&quot;nofollow&quot;:1,&quot;label&quot;:&quot;shr-bar&quot;}">
+            <span class="share-button-title">Share on Reddit</span>
+        </a>        <a  class="share-button gplus"
+                                           data-title="Share on Google+"
+                                           href="https://plus.google.com/share?url=https%3A%2F%2Foctopusproteins.deviantart.com%2Fart%2FLaunchDisplay-v1-5-722439533"
+                                           target="_blank"
+            onclick="PubSub.publish('DaGa.track_social', {
+                network: 'googleplus'
+                ,action: 'share'
+                ,target: 'customization/722439533'
+            });"            data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;Share-GooglePlus&quot;,&quot;nofollow&quot;:1,&quot;label&quot;:&quot;shr-bar&quot;}">
+            <span class="share-button-title">Share on Google+</span>
+        </a>        <a  class="share-button stumbleupon"
+                                           data-title="Share on StumbleUpon"
+                                           href="http://www.stumbleupon.com/submit?url=https%3A%2F%2Foctopusproteins.deviantart.com%2Fart%2FLaunchDisplay-v1-5-722439533"
+                                           target="_blank"
+            onclick="PubSub.publish('DaGa.track_social', {
+                network: 'stumbleupon'
+                ,action: 'share'
+                ,target: 'customization/722439533'
+            });"            data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;Share-StumbleUpon&quot;,&quot;nofollow&quot;:1,&quot;label&quot;:&quot;shr-bar&quot;}">
+            <span class="share-button-title">Share on StumbleUpon</span>
+        </a>        <a  class="share-button livejournal"
+                                           data-title="Share on LiveJournal"
+                                           href="http://www.livejournal.com/update.bml?subject=Devious+Journal+Entry&amp;event=%3Ca+href%3D%22https%3A%2F%2Foctopusproteins.deviantart.com%2Fart%2FLaunchDisplay-v1-5-722439533%22%3E%3Cimg+src%3D%22https%3A%2F%2Ft00.deviantart.net%2Ft0cOTKyVuNsAWQtw2oKmAK8RFww%3D%2Ffit-in%2F150x150%2Ffilters%3Ano_upscale%28%29%3Aorigin%28%29%2Fpre00%2F7fd4%2Fth%2Fpre%2Ff%2F2018%2F034%2F7%2Fd%2Flaunchdisplay_v1_5_by_octopusproteins-dby4dwt.png%22%3E%3Cbr%3ELaunchDisplay+v1.5%3C%2Fa%3E+by+%3Cspan+class%3D%22username-with-symbol+u%22%3E%3Ca+class%3D%22u+regular+username%22+href%3D%22https%3A%2F%2Foctopusproteins.deviantart.com%2F%22%3EOctopusProteins%3C%2Fa%3E%3Cspan+class%3D%22user-symbol+regular%22+data-quicktip-text%3D%22%22+data-show-tooltip%3D%22%22+data-gruser-type%3D%22regular%22%3E%3C%2Fspan%3E%3C%2Fspan%3E+on+%3Ca+href%3D%22https%3A%2F%2Fwww.deviantart.com%22%3EDeviantArt%3C%2Fa%3E"
+                                           target="_blank"
+            onclick="PubSub.publish('DaGa.track_social', {
+                network: 'livejournal'
+                ,action: 'share'
+                ,target: 'customization/722439533'
+            });"            data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;Share-LiveJournal&quot;,&quot;nofollow&quot;:1,&quot;label&quot;:&quot;shr-bar&quot;}">
+            <span class="share-button-title">Share on LiveJournal</span>
+        </a>
+            </div>
+
+            
+        <div>
+            <strong>Link</strong><br>
+            <input class="link"
+                   type="text" onclick="$(this).select()"
+                   data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;copy_favme_share&quot;,&quot;nofollow&quot;:0}"                   value="http://fav.me/dby4dwt">
+        </div>
+        <div>
+            <strong>Thumb</strong><br>
+            <input class=""
+                   type="text" onclick="$(this).select()"
+                   data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;copy_thumbcode_share&quot;,&quot;nofollow&quot;:0}"                   value=":thumb722439533:">
+        </div>        </div>
+    </div>
+
+    </div></div><script type='text/javascript' id='dwaitdatex-5a762d0fc11b6'>
+(function(){
+    function dwaitdatex_5a762d0fc11b6(DWait) {
+        var DWaitReady = false
+        ,context = this
+        ,cb = function() {
+            DWaitReady = true;
+            var elem = document.getElementById('dwaitdatex-5a762d0fc11b6');
+            context = elem ? elem.parentNode : context;
+            (function(){ 
+            $(':gmi(ResourceViewShare)').gmi();
+         }).apply(context);
+        };
+        DWait.ready(["jms/lib/gmi.js", "jms/pages/superbrowse/resview/devbuttons.js", ".domready"], cb);
+    }
+
+    function load() {
+        if (window.DWait) {
+            dwaitdatex_5a762d0fc11b6(DWait);
+        } else {
+            setTimeout(load, 100);
+        }
+    }
+
+    load();
+})();
+</script>    <div class="partial-ad dp-ad-target atf-right-300x250" >
+        <a class="subbyCloseX join-link" 
+        href="https://www.deviantart.com/join?joinpoint=Ads" data-ga_click_event="{&quot;category&quot;:&quot;Join&quot;,&quot;action&quot;:&quot;Ads_Subscription_RedX&quot;,&quot;nofollow&quot;:0,&quot;label&quot;:&quot;deviation_300x250&quot;}"        onmouseover="if (window.Subby)Subby.warning(this, 'Browse without', 'Ads')"
+        onmouseout="if (window.Subby)Subby.out(this)"
+    >&times;</a>        <div style="background-color:#AAB1AA;width:300px;min-height:250px">
+        </div>
+    </div>
+    <div class="dev-meta-actions">        <div style="display:none" data-sigil="minibrowse-remove-message"  name="gmi-ResourceViewMessageButton" id="gmi-ResourceViewMessageButton" data-gmiclass="ResourceViewMessageButton"></div>
+        <a class="dev-page-button dev-page-button-with-text dev-page-download"
+             href="https://www.deviantart.com/download/722439533/launchdisplay_v1_5_by_octopusproteins-dby4dwt.rmskin?token=e1f32e654be697827ea1165ad30a4fe6d481fc1f&amp;ts=1517694823"
+             rel="nofollow" data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;download_file&quot;,&quot;nofollow&quot;:1}"  data-download_url="https://www.deviantart.com/download/722439533/launchdisplay_v1_5_by_octopusproteins-dby4dwt.rmskin?token=e1f32e654be697827ea1165ad30a4fe6d481fc1f&amp;ts=1517694823"  data-gmiclass="DownloadButton"  data-dwait-domready="GMI.wake"  data-dwait-click="GMI.wake"  data-dwait-deps="jms/pages/deviation/dev-page-view.js"  data-deviationid="722439533" >
+             <i></i>
+             <span class="label">Download</span>
+                             <span class="text">195 KB</span>
+                      </a></div>    <div class="deviation-mlt-preview deviation-mlt-preview-b" >
+        <h3 class="dev-right-bar-title more-from-da-title">
+    More from DeviantArt
+    </h3>        <div class="deviation-mlt-preview-body">
+            <div class="stream"  name="gmi-ResourceStream" id="gmi-ResourceStream" data-gmiclass="ResourceStream" gmi-duperbrowse_enabled="1" gmi-duperbrowse_class="Cropthumb">
+                <div
+            class="tt-crop thumb"
+            collect_rid="1:267726929"
+            data-deviationid="267726929"
+        >
+                    <a
+                href="https://novasev.deviantart.com/art/Simply-Nova-267726929"
+                title="Simply Nova by NovaSev, Nov 7, 2011"
+                data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;mlt_thumb&quot;,&quot;nofollow&quot;:1}"            >
+                                <div class="tinythumb scaledown" style="background-image: url('https://t00.deviantart.net/yDZBdZejNPW01K73vAsmteMscAY=/300x200/filters:fixed_height(100,100):origin()/pre00/0e81/th/pre/f/2013/233/f/c/simply_nova_by_nova_7_sev_dd-d4febf5.png');">
+            <img src="https://t00.deviantart.net/yDZBdZejNPW01K73vAsmteMscAY=/300x200/filters:fixed_height(100,100):origin()/pre00/0e81/th/pre/f/2013/233/f/c/simply_nova_by_nova_7_sev_dd-d4febf5.png" alt="Simply Nova by NovaSev" class="fakethumb" data-width="300" data-height="188">
+        </div>                    </a>
+                </div><div
+            class="tt-crop thumb"
+            collect_rid="1:270458946"
+            data-deviationid="270458946"
+        >
+                    <a
+                href="https://rickf7666.deviantart.com/art/Mass-Effect-Rainmeter-Skin-270458946"
+                title="Mass Effect Rainmeter Skin by RickF7666, Nov 22, 2011"
+                data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;mlt_thumb&quot;,&quot;nofollow&quot;:1}"            >
+                                <div class="tinythumb scaledown" style="background-image: url('https://t00.deviantart.net/CbD4fFJFDe989vHVozxOQPl814A=/300x200/filters:fixed_height(100,100):origin()/pre00/3596/th/pre/i/2011/330/4/d/mass_effect_rainmeter_skin_by_rickf7666-d4h0vgi.jpg');">
+            <img src="https://t00.deviantart.net/CbD4fFJFDe989vHVozxOQPl814A=/300x200/filters:fixed_height(100,100):origin()/pre00/3596/th/pre/i/2011/330/4/d/mass_effect_rainmeter_skin_by_rickf7666-d4h0vgi.jpg" alt="Mass Effect Rainmeter Skin by RickF7666" class="fakethumb" data-width="300" data-height="188">
+        </div>                    </a>
+                </div><div
+            class="tt-crop thumb"
+            collect_rid="1:158707137"
+            data-deviationid="158707137"
+        >
+                    <a
+                href="https://fediafedia.deviantart.com/art/Omnimo-5-0-for-Rainmeter-158707137"
+                title="Omnimo 5.0 for Rainmeter by fediaFedia, Mar 28, 2010"
+                data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;mlt_thumb&quot;,&quot;nofollow&quot;:1}"            >
+                                <div class="tinythumb scaledown" style="background-image: url('https://t00.deviantart.net/wd9GA9JdyTCY2iLiIyWgCSMnv9I=/300x200/filters:fixed_height(100,100):origin()/pre00/b96e/th/pre/i/2012/161/4/7/omnimo_5_0_for_rainmeter_by_fediafedia-d2mhn7l.jpg');">
+            <img src="https://t00.deviantart.net/wd9GA9JdyTCY2iLiIyWgCSMnv9I=/300x200/filters:fixed_height(100,100):origin()/pre00/b96e/th/pre/i/2012/161/4/7/omnimo_5_0_for_rainmeter_by_fediafedia-d2mhn7l.jpg" alt="Omnimo 5.0 for Rainmeter by fediaFedia" class="fakethumb" data-width="133" data-height="200">
+        </div>                    </a>
+                </div><div
+            class="tt-crop thumb"
+            collect_rid="1:173567354"
+            data-deviationid="173567354"
+        >
+                    <a
+                href="https://toastbrotpascal.deviantart.com/art/ABP-1-2-173567354"
+                title="ABP 1.2 by toastbrotpascal, Aug 1, 2010"
+                data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;mlt_thumb&quot;,&quot;nofollow&quot;:1}"            >
+                                <div class="tinythumb scaledown" style="background-image: url('https://t00.deviantart.net/_1-zm6XiYWZexD7Pb1CmiPrx9qw=/300x200/filters:fixed_height(100,100):origin()/pre00/ec5b/th/pre/i/2011/057/a/c/abp_1_2_by_toastbrotpascal-d2vc5fe.jpg');">
+            <img src="https://t00.deviantart.net/_1-zm6XiYWZexD7Pb1CmiPrx9qw=/300x200/filters:fixed_height(100,100):origin()/pre00/ec5b/th/pre/i/2011/057/a/c/abp_1_2_by_toastbrotpascal-d2vc5fe.jpg" alt="ABP 1.2 by toastbrotpascal" class="fakethumb" data-width="294" data-height="200">
+        </div>                    </a>
+                </div><div
+            class="tt-crop thumb"
+            collect_rid="1:234828538"
+            data-deviationid="234828538"
+        >
+                    <a
+                href="https://hpluslabels.deviantart.com/art/Eker-lina-rainmeter-The-SKIN-234828538"
+                title="Eker_lina rainmeter The SKIN by hpluslabels, Jul 16, 2011"
+                data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;mlt_thumb&quot;,&quot;nofollow&quot;:1}"            >
+                                <div class="tinythumb scaledown" style="background-image: url('https://t00.deviantart.net/5AQr_FIyWif3jUjLZ4K3vIAQaTk=/300x200/filters:fixed_height(100,100):origin()/pre00/232f/th/pre/f/2014/105/c/d/eker_lina_rainmeter_the_skin_by_hpluslabels-d3vt6uy.png');">
+            <img src="https://t00.deviantart.net/5AQr_FIyWif3jUjLZ4K3vIAQaTk=/300x200/filters:fixed_height(100,100):origin()/pre00/232f/th/pre/f/2014/105/c/d/eker_lina_rainmeter_the_skin_by_hpluslabels-d3vt6uy.png" alt="Eker_lina rainmeter The SKIN by hpluslabels" class="fakethumb" data-width="213" data-height="200">
+        </div>                    </a>
+                </div><div
+            class="tt-crop thumb"
+            collect_rid="1:150654754"
+            data-deviationid="150654754"
+        >
+                    <a
+                href="https://crucafix.deviantart.com/art/FlyAway-for-rainmeter-150654754"
+                title="FlyAway for rainmeter by crucafix, Jan 16, 2010"
+                data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;mlt_thumb&quot;,&quot;nofollow&quot;:1}"            >
+                                <div class="tinythumb scaledown" style="background-image: url('https://t00.deviantart.net/2VadtFA5-ha9R26Jyth_T0l8Ves=/300x200/filters:fixed_height(100,100):origin()/pre00/8044/th/pre/i/2010/016/4/0/flyaway_for_rainmeter_by_crucafix.jpg');">
+            <img src="https://t00.deviantart.net/2VadtFA5-ha9R26Jyth_T0l8Ves=/300x200/filters:fixed_height(100,100):origin()/pre00/8044/th/pre/i/2010/016/4/0/flyaway_for_rainmeter_by_crucafix.jpg" alt="FlyAway for rainmeter by crucafix" class="fakethumb" data-width="300" data-height="169">
+        </div>                    </a>
+                </div><div
+            class="tt-crop thumb"
+            collect_rid="1:173867458"
+            data-deviationid="173867458"
+        >
+                    <a
+                href="https://darkstaruav.deviantart.com/art/Mass-Effect-Skin-173867458"
+                title="Mass Effect Skin by darkstaruav, Aug 3, 2010"
+                data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;mlt_thumb&quot;,&quot;nofollow&quot;:1}"            >
+                                <div class="tinythumb scaledown" style="background-image: url('https://t00.deviantart.net/L-ga9XGoFZU6SianO0xemXMXeqk=/300x200/filters:fixed_height(100,100):origin()/pre00/14c1/th/pre/i/2012/220/5/c/mass_effect_skin_by_darkstaruav-d2vikzm.jpg');">
+            <img src="https://t00.deviantart.net/L-ga9XGoFZU6SianO0xemXMXeqk=/300x200/filters:fixed_height(100,100):origin()/pre00/14c1/th/pre/i/2012/220/5/c/mass_effect_skin_by_darkstaruav-d2vikzm.jpg" alt="Mass Effect Skin by darkstaruav" class="fakethumb" data-width="178" data-height="200">
+        </div>                    </a>
+                </div><div
+            class="tt-crop thumb"
+            collect_rid="1:313113162"
+            data-deviationid="313113162"
+        >
+                    <a
+                href="https://seraphimax.deviantart.com/art/Vocaloid-Love-is-War-Miku-Rainmeter-313113162"
+                title="Vocaloid: Love is War Miku Rainmeter by seraphimax, Jul 7, 2012"
+                data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;mlt_thumb&quot;,&quot;nofollow&quot;:1}"            >
+                                <div class="tinythumb scaledown" style="background-image: url('https://t00.deviantart.net/0uwtwNEtUMa1oeNMYmrgRH9IC5o=/300x200/filters:fixed_height(100,100):origin()/pre00/d540/th/pre/i/2012/189/3/b/vocaloid__love_is_war_miku_rainmeter_by_seraphimax-d56f3nu.jpg');">
+            <img src="https://t00.deviantart.net/0uwtwNEtUMa1oeNMYmrgRH9IC5o=/300x200/filters:fixed_height(100,100):origin()/pre00/d540/th/pre/i/2012/189/3/b/vocaloid__love_is_war_miku_rainmeter_by_seraphimax-d56f3nu.jpg" alt="Vocaloid: Love is War Miku Rainmeter by seraphimax" class="fakethumb" data-width="179" data-height="200">
+        </div>                    </a>
+                </div><div
+            class="tt-crop thumb"
+            collect_rid="1:307899210"
+            data-deviationid="307899210"
+        >
+                    <a
+                href="https://daelnz.deviantart.com/art/Avengers-S-H-I-E-L-D-OS-Ver-1-2-5-307899210"
+                title="Avengers S.H.I.E.L.D OS Ver 1.2.5 by Daelnz, Jun 12, 2012"
+                data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;mlt_thumb&quot;,&quot;nofollow&quot;:1}"            >
+                                <div class="tinythumb scaledown" style="background-image: url('https://t00.deviantart.net/xMQWGauap5dkdWLzdtZasYvMNuI=/300x200/filters:fixed_height(100,100):origin()/pre00/7a0d/th/pre/f/2012/346/d/0/avengers_s_h_i_e_l_d_os_ver_1_2_5_by_daelnz-d53bcju.png');">
+            <img src="https://t00.deviantart.net/xMQWGauap5dkdWLzdtZasYvMNuI=/300x200/filters:fixed_height(100,100):origin()/pre00/7a0d/th/pre/f/2012/346/d/0/avengers_s_h_i_e_l_d_os_ver_1_2_5_by_daelnz-d53bcju.png" alt="Avengers S.H.I.E.L.D OS Ver 1.2.5 by Daelnz" class="fakethumb" data-width="183" data-height="200">
+        </div>                    </a>
+                </div>            </div>                <div class="morelink mltfa">
+        <a href="https://www.deviantart.com/morelikethis/722439533" class="mltpreview-footerlink smbutton smbutton-textonly" data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;mlt_browse&quot;,&quot;nofollow&quot;:0}">
+            <span><strong>Browse More Like This</strong></span>
+        </a>
+                    <span class="middot">&middot;</span>
+            <a class="mltpreview-footerlink smbutton smbutton-textonly" href="https://shop.deviantart.com/wallart/?qh=__in:customization/skins/sysmonitor/rainmeter"                data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;ShopSimilar&quot;,&quot;nofollow&quot;:0}">
+                <span><strong>Shop Similar Prints</strong></span>
+            </a>
+            </div>
+            </div>
+    </div>
+    <hr class="fade-highlight-bar">
+        <h3 class="dev-right-bar-title group_featured_title">Featured in Groups</h3>
+
+        <div class="group_featured_list details-section single-group-icon">
+    <span class="grp hh"  name="gmi-GroupList" id="gmi-GroupList" data-gmiclass="GroupList" gmi-groupid="11691593" gmi-groupname="Rainmeter">
+        <span class="grpicon"><a href="https://rainmeter.deviantart.com"><img class="avatar group" width="100" height="50" src="https://a.deviantart.net/avatars/r/a/rainmeter.png?15" alt=":iconrainmeter:" title="Rainmeter" /></a></span>
+
+                <span class="grpname"><span class="username-with-symbol u"><a class="u super group username" href="https://rainmeter.deviantart.com/" data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;featured_group_link&quot;,&quot;nofollow&quot;:0}">Rainmeter</a><span class="user-symbol super group" data-quicktip-text="Super Group" data-show-tooltip="1" data-gruser-type="super group" data-clickthrough="http://groups.deviantart.com"></span></span></span><br>
+        <span class="grptagline">Make your desktop yours!</span>    </span>
+            <div id="groups_links" class="devpage-groups-links">                <div class="clear"></div>
+            </div>
+        </div>            <hr class="fade-highlight-bar">
+            <h3 class="dev-right-bar-title dev-metainfo-title dev-metainfo-details">Details</h3>
+                <div class="dev-right-bar-content dev-metainfo-content dev-metainfo-details" data-dwait-deps="jms/pages/deviation/dev-page-view.js" data-dwait-domready="DeviationPageView.meta_info">
+            <dl><dt>Submitted on</dt><dd><span title="1 month ago" ts="1514489145" offset="-1">December 28, 2017</span></dd><dt>File Size</dt><dd>195 KB</dd></dl>        <div class="dev-metainfo-copy-control">
+            <strong>Link</strong><br>
+            <input class="embed-code" readonly data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;copy_favme&quot;,&quot;nofollow&quot;:0}" value="http://fav.me/dby4dwt">
+        </div>        <div class="dev-metainfo-copy-control">
+            <strong>Thumb</strong><br>
+            <input class="embed-code" readonly data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;copy_thumbcode&quot;,&quot;nofollow&quot;:0}" value=":thumb722439533:">
+        </div>        </div>
+                    <hr class="fade-highlight-bar">
+            <h3 class="dev-right-bar-title dev-metainfo-title dev-metainfo-stats">Stats</h3>
+                <div class="dev-right-bar-content dev-metainfo-content dev-metainfo-stats" >
+            <dl><dt>Views</dt><dd>4,899 <span class="extra">(18 today)</span></dd><dt>Favourites</dt><dd>1 <span class="extra">(<a href="javascript:void(0)" class="a" class="jslink"
+                                   data-ga_click_event="{&quot;category&quot;:&quot;Deviation&quot;,&quot;action&quot;:&quot;who_faved&quot;,&quot;nofollow&quot;:0}"                                   onclick="return DWait.readyLink('jms/modals/who-faved-modal.js', this, 'WhoFavedModal.open(this)')"
+                                   data-title="LaunchDisplay v1.5"
+                                   data-header="The following users have added this deviation to their favourites."
+                                   data-iframe-src="https://www.deviantart.com/deviation/722439533/favourites">who?</a>)</span>
+        <div class="who-faved-modal modal-template" style="display:none">
+            <h2 class="who-faved-title"></h2>
+            <div class="who-faved-header"></div>
+            <iframe class="who-faved-iframe" frameBorder="0"></iframe>
+        </div></dd><dt>Comments</dt><dd>4</dd><dt>Downloads</dt><dd>99</dd></dl>        </div>
+            <div class="preload" id="pimp-preload"><span class="i"></span><span class="ii"></span><span class="iii"></span></div>
+    <div id="pimp-722439533" class="light pimp" style="display:none">
+        <div class="pimp-holder" data-pimptype="deviation">
+            <div class="funzone c"></div>
+            <div class="pimp-note" style="padding:48px 32px;_padding:48">
+                <div style="_white-space:nowrap"><label>To</label><input class="itext" tabindex="303" maxlength="250" type="text" name="recipients" onkeypress="return Blogobox.inputKey(window.event || arguments[0], this)"/>
+                <a href="#" tabindex="304" class="a iconset-modules gmhyper gmbutton2 gmbutton2qn" data-fixed-popup-position="1" onclick="return DWait.readyLink('jms/pages/friends.js', this, 'Friends.open(this,function(res){Blogobox.noteFriend(this[0],res);})')" onmouseover="if (t=document.getElementById('sitemap-groups-menu'))t.parentNode.removeChild(t)"><i class="icon i28" style="margin-top: 6px;"></i><b></b></a></div>
+                <div class="pt">
+                    <label class="ii">Message</label>
+                    <div class="textarea">
+                        <div class="preview" onclick="return Blogobox.noteFocus(this)">
+                            <span class="shadow-holder"><div class="tt-a sq" collect_rid="1:722439533" usericon="https://a.deviantart.net/avatars/o/c/octopusproteins.jpg?1" userid="44561507" username="OctopusProteins" symbol="~" category="customization/skins/sysmonitor/rainmeter"><span class="tt-w"><span class="shadow" ><a class="thumb" href="https://octopusproteins.deviantart.com/art/LaunchDisplay-v1-5-722439533" title="LaunchDisplay v1.5 by OctopusProteins, Dec 28, 2017 in Customization &gt; Skins &amp; Themes &gt; System Monitoring &gt; Rainmeter"        data-sigil="thumb">
+        <i></i><img   width="129" height="150" alt="LaunchDisplay v1.5 by OctopusProteins" src="https://t00.deviantart.net/t0cOTKyVuNsAWQtw2oKmAK8RFww=/fit-in/150x150/filters:no_upscale():origin()/pre00/7fd4/th/pre/f/2018/034/7/d/launchdisplay_v1_5_by_octopusproteins-dby4dwt.png" data-src="https://t00.deviantart.net/t0cOTKyVuNsAWQtw2oKmAK8RFww=/fit-in/150x150/filters:no_upscale():origin()/pre00/7fd4/th/pre/f/2018/034/7/d/launchdisplay_v1_5_by_octopusproteins-dby4dwt.png" srcset="https://t00.deviantart.net/t0cOTKyVuNsAWQtw2oKmAK8RFww=/fit-in/150x150/filters:no_upscale():origin()/pre00/7fd4/th/pre/f/2018/034/7/d/launchdisplay_v1_5_by_octopusproteins-dby4dwt.png 129w,https://t00.deviantart.net/E9RHjLBjCRWj7opbRIXNULsxHUk=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre00/7fd4/th/pre/f/2018/034/7/d/launchdisplay_v1_5_by_octopusproteins-dby4dwt.png 301w,https://t00.deviantart.net/6pV0adVzpZWyw8kb0eLtJPf8Oc0=/fit-in/800x400/filters:fixed_height(100,100):origin()/pre00/7fd4/th/pre/f/2018/034/7/d/launchdisplay_v1_5_by_octopusproteins-dby4dwt.png 344w,https://pre00.deviantart.net/7fd4/th/pre/f/2018/034/7/d/launchdisplay_v1_5_by_octopusproteins-dby4dwt.png 829w" sizes="129px"></a></span><!-- ^TTT --><!-- TTT$ --></span></div></span>                        </div>
+                        <!-- #9470 -->
+                        <textarea tabindex="303" onkeydown="return Blogobox.inputKey(window.event || arguments[0], this)"></textarea>
+                    </div>
+                </div>
+                <br/>
+                <div class="">
+                </div>
+                <div style="_white-space:nowrap"><input tabindex="303" class="isend" type="button" value="Send" onclick="Blogobox.note(this)" style="width:10ex;font-size:10pt"/>
+                &nbsp;&nbsp;
+                <input tabindex="304" class="icancel" type="button" value="Cancel" onclick="Modals.pop()" style="width:10ex;font-size:10pt"/></div>
+                <kbd style="display:block;margin:4px 0 0 90px" title="keyboard shortcut">&nbsp;</kbd>
+            </div>
+        </div>
+    </div>
+        <div class="partial-ad dp-ad-target btf-right-300x250"  name="gmi-ResourcePageBtfDockAd" id="gmi-ResourcePageBtfDockAd" data-gmiclass="ResourcePageBtfDockAd">
+        <a class="subbyCloseX join-link" 
+        href="https://www.deviantart.com/join?joinpoint=Ads" data-ga_click_event="{&quot;category&quot;:&quot;Join&quot;,&quot;action&quot;:&quot;Ads_Subscription_RedX&quot;,&quot;nofollow&quot;:0,&quot;label&quot;:&quot;deviation_300x250&quot;}"        onmouseover="if (window.Subby)Subby.warning(this, 'Browse without', 'Ads')"
+        onmouseout="if (window.Subby)Subby.out(this)"
+    >&times;</a>        <div style="background-color:#AAB1AA;width:300px;min-height:250px">
+        </div>
+    </div>
+                </div>
+        </div>
+                    <div class="dev-right-col-bg"></div>
+            <div style="clear:both;"></div><span style="display:none" class="dwaitcontext" id="dwaitcontext-101"></span><script type="text/javascript">DWait.ready(["jms\/pages\/deviation\/dev-page-view.js"], DWait.bind(document.getElementById('dwaitcontext-101').parentNode, function(){$(this).gmiUp()}));</script>
+        </div>        </div>     
+     <footer id="depths">
+        <div class="depths-inner">
+            <div class="footer_copyright">&copy;2018 DeviantArt.  All rights reserved</div>
+                    <nav class="footer_tx_links">
+            <ul class="footer-menu-list">
+                            <li class="footer-menu-list-item">
+                    <a href="https://about.deviantart.com/" data-ga_click_event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;click_link_about&quot;,&quot;nofollow&quot;:0}">About</a>
+                </li>
+                            <li class="footer-menu-list-item">
+                    <a href="https://about.deviantart.com/contact/" data-ga_click_event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;click_link_contact&quot;,&quot;nofollow&quot;:0}">Contact</a>
+                </li>
+                            <li class="footer-menu-list-item">
+                    <a href="https://www.deviantart.com/developers" data-ga_click_event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;click_link_developers&quot;,&quot;nofollow&quot;:0}">Developers</a>
+                </li>
+                            <li class="footer-menu-list-item">
+                    <a href="https://deviantart.theresumator.com/apply/" data-ga_click_event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;click_link_careers&quot;,&quot;nofollow&quot;:0}">Careers</a>
+                </li>
+                            <li class="footer-menu-list-item">
+                    <a href="https://welcome.deviantart.com/" data-ga_click_event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;click_link_site-tour&quot;,&quot;nofollow&quot;:0}">Site Tour</a>
+                </li>
+                            <li class="footer-menu-list-item">
+                    <a href="https://deviantart.wixanswers.com/en/" data-ga_click_event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;click_link_help&quot;,&quot;nofollow&quot;:0}">Help &amp; FAQ</a>
+                </li>
+                            <li class="footer-menu-list-item">
+                    <a href="https://about.deviantart.com/advertising/" data-ga_click_event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;click_link_advertise&quot;,&quot;nofollow&quot;:0}">Advertise</a>
+                </li>
+                            <li class="footer-menu-list-item">
+                    <a href="https://www.deviantart.com/core-membership/?point=footer" data-ga_click_event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;click_link_pm&quot;,&quot;nofollow&quot;:0}">Core Members</a>
+                </li>
+                            <li class="footer-menu-list-item">
+                    <a href="https://about.deviantart.com/policy/etiquette/" data-ga_click_event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;click_link_etiquette&quot;,&quot;nofollow&quot;:0}">Etiquette</a>
+                </li>
+                            <li class="footer-menu-list-item">
+                    <a href="https://about.deviantart.com/policy/privacy/" data-ga_click_event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;click_link_privacy&quot;,&quot;nofollow&quot;:0}">Privacy Policy</a>
+                </li>
+                            <li class="footer-menu-list-item">
+                    <a href="https://about.deviantart.com/policy/service/" data-ga_click_event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;click_link_terms&quot;,&quot;nofollow&quot;:0}">Terms of Service</a>
+                </li>
+                            <li class="footer-menu-list-item">
+                    <a href="https://about.deviantart.com/policy/copyright/" data-ga_click_event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;click_link_copyright&quot;,&quot;nofollow&quot;:0}">Copyright Policy</a>
+                </li>
+                        </ul>
+        </nav>
+            
+        </div>
+    </footer></div><!-- output -->    <div class="commentwriter-interface" style="display:none">
+        <div class="commentwriter-toolbar stashwriter-subtoolbar open">
+            <table id="commentwriter-topmenu"><tr>
+            <td class="oh-hasmenu oh-hashover oh-mmain oh-stashmain">
+        <a href="https://sta.sh" onclick="PubSub.publish('StashPageNavigation.escape_to_root'); return false;" class="oh-l">
+            <span class="oh-stashlogo"><img width="30" height="30" src="https://a.deviantart.net/avatars/default.gif" class="avatar"/>
+                <span class="oh-stashlogo-name"></span>
+            </span>
+            <span class="oh-stashtitle">Sta.sh</span>
+            <span class="oh-submiticon"></span>
+            <span class="oh-stashsubmit">Submit</span>
+        </a>
+        <div id="oh-mainmenu" class="oh-menu iconset-more stash-menu">
+            <a class="mi" href="https://sta.sh"><i class="i1337"><img width="20" height="20" src="https://a.deviantart.net/avatars/default.gif" class="avatar"/></i>Sta.sh</a>
+            <a class="mi" href="https://sta.sh/writer"><i class="idkfa"></i>Sta.sh Writer</a>
+            <a class="mi" href="https://sta.sh/muro"><i class="i49"></i>DeviantArt muro</a>
+            <a class="mi verify-link" href="https://www.deviantart.com/submit"><i class="iddt"></i>Submit</a>
+            <div class="oh-hr"></div>
+            <a class="mi" href="https://www.deviantart.com/"><i class="iddqd"></i>DeviantArt</a>
+            <div class="oh-hr oh-hrlast"></div>        </div>
+    </td>            </tr></table>
+            <div class="commentwriter-actions">
+                <a class="commentwriter-cancel smbutton smbutton-white" href="#"><span><em>Hide Media</em></span></a>
+                <a class="commentwriter-preview smbutton smbutton-white" href="#"><span><em>Preview</em></span></a>
+                <a class="commentwriter-submit smbutton smbutton-green" href="#"><span><em>Submit Comment</em></span></a>
+            </div>
+            <div class="commentwriter-toolbar-outer">
+                <div class="commentwriter-toolbar-inner">
+                </div>
+            </div>
+        </div>
+        <div class="commentwriter-sidebar">
+            <div class="commentwriter-sidebar-inner">
+                <h3>Add Media</h3>
+            </div>
+            <div class="commentwriter-skinbar-inner writer-skinbar">
+                <h3>Style</h3>
+                <div class="current-skin hh">
+                    <div class="ll">
+                        Skin: <span class="skin-title"></span>
+                    </div>
+                    <div class="rr">
+                        <a href="#skins" class="skins_show">Change skin</a>
+                    </div>
+                </div>
+                <div id="stashwriter_sidebar_skins_container">
+                </div>
+            </div>
+        </div>
+        <div style="display: none" id="stash_upload_zone_holder">
+                <div class="tt-a stash-tt-a sq stream-upload-thumb"><span class="tt-ww">
+            <form method="POST" id="stash-form" class="undraggable" enctype="multipart/form-data" action="/dapi/v1/submit/upload" autocomplete="off">
+                <input type="hidden" name="action" value="StashPost">
+                <a class="smbutton smbutton-file-upload">
+                    <span>Upload Files</span>
+                    <input type="file" name="file" class="file-upload stash-file">
+                </a>
+            </form>
+        </span></div>
+        </div>
+    </div>
+            <script type="text/javascript">
+            (function() {
+                var content = document.querySelector('div.bubbleview, .match-body-height');
+                var footer = document.querySelector('#depths');
+                if (content && footer) {
+                    var height = window.getComputedStyle(content).getPropertyValue('height');
+                    height = parseInt(height, 10) || content.clientHeight;
+                    content.style.minHeight = height + document.documentElement.clientHeight -
+                                              footer.getBoundingClientRect().bottom + 'px';
+                }
+            })();
+        </script>
+        
+<script type="text/javascript" async  src="https://st.deviantart.net/css/jquery.ui_jc.js?3105002537" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/art-common_jc.js?1690207060" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/stashwriter_jc.js?1197170234" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/menusys_jc.js?1939899926" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/sidebar_jc.js?954447574" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/header_jc.js?3114820648" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/jquery-extras_jc.js?2736332723" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/dragger_jc.js?939552279" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/jquery.scrollto_jc.js?1893097371" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/chat_jc.js?3174021553" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/deviantart-network-loggedin_jc.js?1438447932" charset="utf-8"></script>
+<script type="text/javascript" async  src="https://st.deviantart.net/css/v6loggedin_jc.js?740043175" charset="utf-8"></script><script type="text/javascript">window.__initial_body_data={"bilogger":{"platform":"desktop","clientid":"f4e36c18-cbd1-21f6-b579-3ef617859b21","requestid":"585mcb6e9965f525973a9daa0eff13af08d5","throttle":"100"},"dapx":{"client":"dw","daid":"f4e36c18cbd121f6b5793ef617859b21","requestid":"585m053adcbdb4c4c47a6ad12aeab8a81fac","log_data":{"artist":"44561507","devid":722439533},"eventid":"daweb:art::::pageview","delay_init_event":false},"csrf":"SWOLtuoAvXP6PHEt.p3lgcv.r-HvY-lSAt_FMCklzPxGrJrcIuFE-vK8R9wK2Cq73kE","hub":{"user":"djDwIyQIp-JXzDh_4-Zyfg","ts":"1517694223","auth":"83af33dde970ddc0dc1f616cc3de1b37ec22ed959aa3f9d63f0190bb3ce419fc","subs":[],"endpoint":"https:\/\/hub.deviantart.net"}};__wake(["lib\/da\/hub","lib\/da\/ads\/blocker-check","lib\/dom\/wait","lib\/da\/dapx","lib\/da\/legacy-difi-bridge"]);</script>            <script type="text/javascript" src="//st.deviantart.net/roses/rosa/webpackcore.d41d8cd98f00b204e980.js"></script>
+                        <script type="text/javascript" src="//st.deviantart.net/roses/rosa/vendor.e98d5ba5723c8f773aec.js"></script>
+                        <script type="text/javascript" src="//st.deviantart.net/roses/rosa/commons.b25b073804186896c703.js"></script>
+                        <script type="text/javascript" src="//st.deviantart.net/roses/rosa/sink.51988ceca707b83e70f3.js"></script>
+            <a id="deviantART-loves-you"> </a>
+<script type="text/javascript">
+                DWait.loadDownloadMap({"jms\/thirdparty\/lib\/flatpickr\/flatpickr.js":["https:\/\/st.deviantart.net\/css\/flatpickr_jc.js?3871654166","https:\/\/st.deviantart.net\/css\/flatpickr_lc.css?988834512"],"jms\/pages\/duperbrowse\/stream\/freeform.custom.stream.js":["https:\/\/st.deviantart.net\/css\/duperbrowse.stream_jc.js?272266626"],"jms\/pages\/devwatch-editor.js":["https:\/\/st.deviantart.net\/css\/deviant3_jc.js?88282741"],"jms\/pages\/widgets\/discoverytags.js":["https:\/\/st.deviantart.net\/css\/discoverytags_jc.js?3062825667"],"jms\/modals\/who-faved-modal.js":["https:\/\/st.deviantart.net\/css\/who-faved-modal_jc.js?3899226371","https:\/\/st.deviantart.net\/css\/who-faved-modal_lc.css?21836390"],"cssms\/modals\/who-faved-modal.css":["https:\/\/st.deviantart.net\/css\/who-faved-modal_lc.css?21836390"],"jms\/pages\/gruzecontrol\/widgets\/utils.js":["https:\/\/st.deviantart.net\/css\/page_editor_jc.js?4188395092","https:\/\/st.deviantart.net\/css\/group_privs_jc.js?3379072400","https:\/\/st.deviantart.net\/css\/v6gruser_jc.js?3343841370"],"jms\/pages\/blogobox.js":["https:\/\/st.deviantart.net\/css\/deviation_old_jc.js?3844308840","https:\/\/st.deviantart.net\/css\/deviantart-network-admin_jc.js?777709186"],"cssms\/pages\/deviation\/note-modal.css":["https:\/\/st.deviantart.net\/css\/notes-modal_lc.css?3383669418"],"cssms\/pages\/stash\/stash.override.thumbs.css":["https:\/\/st.deviantart.net\/css\/stash_lc.css?3709464454"],"jms\/pages\/stash\/stash.embedded.js":["https:\/\/st.deviantart.net\/css\/stash_jc.js?1411243715","https:\/\/st.deviantart.net\/css\/stash_lc.css?3709464454"],"jms\/chrome\/more7.js":["https:\/\/st.deviantart.net\/css\/more7_jc.js?3272996614"],"jms\/chrome\/more7.custom2.js":["https:\/\/st.deviantart.net\/css\/more7_jc.js?3272996614"],"jms\/chrome\/loginbar.js":["https:\/\/st.deviantart.net\/css\/more7_jc.js?3272996614"]});
+                </script>        <script type="text/javascript">
+        if (self._qevents) {
+            _qevents.push( { qacct:"p-915Y6SMHQQJHI", labels: "Categories.Customization.Skins,Deviation,Comments.Thread,Comments.Thread,UserStatus.LoggedOut"} );
+        }
+        </script>
+        <noscript>
+        <div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-915Y6SMHQQJHI.gif" height="1" width="1" alt="Quantcast"></div>
+        </noscript>
+        <script type="text/javascript">
+                (function(d, e, v, i, a, n, t){
+                    d.dapx = d.dapx || function() { (d.dapx.q = d.dapx.q || []).push(arguments)};
+                    d.dapx.drift = i ? Math.round(new Date()*.001)-i : 0;
+                    n = e.createElement(v);
+                    t = e.getElementsByTagName(v)[0];
+                    n.async = 1;
+                    n.src = "https://st.deviantart.net/css/dapx_jc.js?463787660";
+                    t.parentNode.insertBefore(n, t);
+                })(window, document, "script", 1517694223);
+            </script><script type="text/javascript">DWait.ready(["jms\/lib\/pubsub.js"], function(){ PubSub.publish("DaPx.initialize", {"client":"dw","daid":"f4e36c18cbd121f6b5793ef617859b21","requestid":"585m053adcbdb4c4c47a6ad12aeab8a81fac","log_data":{"artist":"44561507","devid":722439533},"eventid":"daweb:art::::pageview","delay_init_event":false}); });</script>
+        <!-- Begin comScore Tag -->
+        <script>
+         var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "8112885" });
+         (function() {
+         var s = document.createElement("script"), el =
+        document.getElementsByTagName("script")[0]; s.async = true;
+         s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") +
+        ".scorecardresearch.com/beacon.js";
+         el.parentNode.insertBefore(s, el);
+         })();
+        </script>
+        <noscript>
+            <img src="https://sb.scorecardresearch.com/p?c1=2&c2=8112885" />
+        </noscript>
+        <!-- End comScore Tag -->
+        </body>
+</html>

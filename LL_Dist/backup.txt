@@ -1,0 +1,1536 @@
+[Rainmeter]
+Update=150
+AccurateText=1
+@Include=#@#Variables.inc
+[Metadata]
+Name=LaunchLibrary Display
+Author=OctopusProteins
+Information=Made possible by the LaunchLibrary API. launchlibrary.net
+Version=1.6
+License=Creative Commons Attribution - Non - Commercial - Share Alike 3.0
+
+[Variables]
+Direction=-1
+CURRENTURL=https://launchlibrary.net/1.3/launch/next/5
+DeviantARTpage=https://octopusproteins.deviantart.com/art/LaunchDisplay-v1-0-722439533
+Version=1.6
+
+EntryW=(#W#-5)/2
+EntryH=(#H#-40)/5
+DescX=#EntryW# + 15
+EntryY=#EntryH# + 10
+LineYSub=(#EntryH# / 2)
+; updating
+[MeasureLatestVersion]
+Measure=Plugin
+Plugin=WebParser
+URL="#DeviantARTpage#"
+RegExp="(?siU)LaunchDisplay.+([0-9]+\.[0-9]+)"     
+StringIndex=1
+UpdateDivider=20
+FinishAction=[!SetOption MeterUpdateAlert Hidden "([*MeasureHideNewVersionAlert*])"]
+[MeasureAlertFlasher]
+Measure=Calc
+Formula="(MeasureAlertFlasher=1)?0:1"
+UpdateDivider=4
+
+[MeasureHideNewVersionAlert]
+Measure=Script
+ScriptFile=#@#HideNewVersionAlert.lua
+
+[MeterBackground]
+Meter=Image
+X=10
+Y=0
+W=#W#
+H=#H#
+SolidColor=0,0,0,30
+UpdateDivider=50
+
+; ------------------ Background for Desc ---------------------------------
+[MeterEntry1]
+Meter=Image
+X=#DescX#
+Y=0
+W=#EntryW#
+H=#EntryH#
+SolidColor=#Color2#
+UpdateDivider=50
+[MeterEntry2]
+Meter=Image
+X=#DescX#
+Y=#EntryY#
+W=#EntryW#
+H=#EntryH#
+SolidColor=#Color2#
+UpdateDivider=50
+[MeterEntry3]
+Meter=Image
+X=#DescX#
+Y=(#EntryY#) * 2
+W=#EntryW#
+H=#EntryH#
+SolidColor=#Color2#
+UpdateDivider=50
+[MeterEntry4]
+Meter=Image
+X=#DescX#
+Y=(#EntryY#) * 3
+W=#EntryW#
+H=#EntryH#
+SolidColor=#Color2#
+UpdateDivider=50
+[MeterEntry5]
+Meter=Image
+X=#DescX#
+Y=(#EntryY#) * 4
+W=#EntryW#
+H=#EntryH#
+SolidColor=#Color2#
+UpdateDivider=50
+;-----------------Entry BACK---------------------------------
+[MeterDesc1]
+Meter=Image
+X=10
+Y=0
+W=#EntryW#
+H=#EntryH#
+SolidColor=#Color1#
+UpdateDivider=50
+[MeterDesc2]
+Meter=Image
+X=10
+Y=#EntryY#
+W=#EntryW#
+H=#EntryH#
+SolidColor=#Color1#
+UpdateDivider=50
+[MeterDesc3]
+Meter=Image
+X=10
+Y=(#EntryY#) * 2
+W=#EntryW#
+H=#EntryH#
+SolidColor=#Color1#
+UpdateDivider=50
+[MeterDesc4]
+Meter=Image
+X=10
+Y=(#EntryY#) * 3
+W=#EntryW#
+H=#EntryH#
+SolidColor=#Color1#
+UpdateDivider=50
+[MeterDesc5]
+Meter=Image
+X=10
+Y=(#EntryY#) * 4
+W=#EntryW#
+H=#EntryH#
+SolidColor=#Color1#
+UpdateDivider=50
+;--------------------WebParser-----------------------------
+[MeasureAPIParent1]
+Measure=WebParser
+
+URL=#CURRENTURL#
+;             mission          windows opens         window close         vid link            launchpad       					rocket name     mission summmary										lsp					comp abbrev
+RegExp=(?siU)"name":"(.*)",.*"windowstart":"(.*)",.*"windowend":"(.*)",.*"vidURLs":\[(.*)].*"name":"(.*)",.*"rocket":\{"id":.*"name":"(.*)",.*"missions":\[(?(?=\{"id":).*\{"id":.*",)(?(?="description":").*"description":"(.*)",").*"lsp":\{.*"name":"(.*)",.*"abbrev":"(.*)",
+UpdateDivider=10
+[MeasureAPIParent2]
+Measure=WebParser
+
+URL=#CURRENTURL#
+;			             mission          windows opens         window close         vid link            launchpad       					rocket name     mission summmary			lsp					comp abbrev
+RegExp=(?siU)]}},{.*"name":"(.*)",.*"windowstart":"(.*)",.*"windowend":"(.*)",.*"vidURLs":\[(.*)].*"name":"(.*)",.*"rocket":\{"id":.*"name":"(.*)",.*"missions":\[(?(?=\{"id":).*\{"id":.*",)(?(?="description":").*"description":"(.*)",").*"lsp":\{.*"name":"(.*)",.*"abbrev":"(.*)",
+UpdateDivider=10
+[MeasureAPIParent3]
+Measure=WebParser
+
+URL=#CURRENTURL#
+;							             mission          windows opens         window close         vid link            launchpad       					rocket name     mission summmary			lsp					comp abbrev
+RegExp=(?siU)]}},{.*]}},{.*"name":"(.*)",.*"windowstart":"(.*)",.*"windowend":"(.*)",.*"vidURLs":\[(.*)].*"name":"(.*)",.*"rocket":\{"id":.*"name":"(.*)",.*"missions":\[(?(?=\{"id":).*\{"id":.*",)(?(?="description":").*"description":"(.*)",").*"lsp":\{.*"name":"(.*)",.*"abbrev":"(.*)",
+UpdateDivider=10
+[MeasureAPIParent4]
+Measure=WebParser
+
+URL=#CURRENTURL#
+;										             mission          windows opens         window close         vid link            launchpad       					rocket name     mission summmary			lsp					comp abbrev
+RegExp=(?siU)]}},{.*]}},{.*]}},{.*"name":"(.*)",.*"windowstart":"(.*)",.*"windowend":"(.*)",.*"vidURLs":\[(.*)].*"name":"(.*)",.*"rocket":\{"id":.*"name":"(.*)",.*"missions":\[(?(?=\{"id":).*\{"id":.*",)(?(?="description":").*"description":"(.*)",").*"lsp":\{.*"name":"(.*)",.*"abbrev":"(.*)",
+
+UpdateDivider=10
+[MeasureAPIParent5]
+Measure=WebParser
+
+URL=#CURRENTURL#
+;													             mission          windows opens         window close         vid link            launchpad       					rocket name     mission summmary			lsp					comp abbrev
+RegExp=(?siU)]}},{.*]}},{.*]}},{.*]}},{.*"name":"(.*)",.*"windowstart":"(.*)",.*"windowend":"(.*)",.*"vidURLs":\[(.*)].*"name":"(.*)",.*"rocket":\{"id":.*"name":"(.*)",.*"missions":\[(?(?=\{"id":).*\{"id":.*",)(?(?="description":").*"description":"(.*)",").*"lsp":\{.*"name":"(.*)",.*"abbrev":"(.*)",
+UpdateDivider=10
+;file://#CURRENTPATH#FILENAME.html
+;]}},{"id":.*
+;-------------------ParserChildren1---------------------
+[Measure1Mission]
+Measure=WebParser
+URL=[MeasureAPIParent1]
+StringIndex=1
+[Measure1Open]
+Measure=WebParser
+URL=[MeasureAPIParent1]
+StringIndex=2
+[Lua1Open]
+Measure=Script
+ScriptFile=#@#DateTime.lua
+Year=Measure1OpenYear
+Month=Measure1OpenMonth
+Day=Measure1OpenDay
+Hour=Measure1OpenHour
+Minute=Measure1OpenMinute
+Second=Measure1OpenSecond
+var=1Open
+; (?siU)<date>(.*) (\d{1,2}), (\d{4}) (\d{1,2}):(\d{2}):(\d{2}) .*</date>
+; 				December 26, 2017 19:00:00 UTC
+[Measure1OpenYear]
+Measure=String
+String=[Measure1Open]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, (\d{4}) \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure1OpenM]
+Measure=String
+String=[Measure1Open]
+RegExpSubstitute=1
+Substitute="(.*) \d{1,2}, \d{4} \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure1OpenMonth]
+Measure=String
+String=[Measure1OpenM]
+Substitute="January":"1","February":"2","March":"3","April":"4","May":"5","June":"6","July":"7","August":"8","September":"9","October":"10","November":"11","December":"12"
+DynamicVariables=1
+[Measure1OpenDay]
+Measure=String
+String=[Measure1Open]
+RegExpSubstitute=1
+Substitute=".* (\d{1,2}), \d{4} \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure1OpenHour]
+Measure=String
+String=[Measure1Open]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} (\d{1,2}):\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure1OpenMinute]
+Measure=String
+String=[Measure1Open]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} \d{1,2}:(\d{2}):\d{2} .*":"\1"
+DynamicVariables=1
+[Measure1OpenSecond]
+Measure=String
+String=[Measure1Open]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} \d{1,2}:\d{2}:(\d{2}) .*":"\1"
+DynamicVariables=1
+[Measure1Close]
+Measure=WebParser
+URL=[MeasureAPIParent1]
+StringIndex=3
+[Lua1Close]
+Measure=Script
+ScriptFile=#@#DateTime.lua
+Year=Measure1CloseYear
+Month=Measure1CloseMonth
+Day=Measure1CloseDay
+Hour=Measure1CloseHour
+Minute=Measure1CloseMinute
+Second=Measure1CloseSecond
+var=1Close
+; (?siU)<date>(.*) (\d{1,2}), (\d{4}) (\d{1,2}):(\d{2}):(\d{2}) .*</date>
+; 				December 26, 2017 19:00:00 UTC
+[Measure1CloseYear]
+Measure=String
+String=[Measure1Close]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, (\d{4}) \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure1CloseM]
+Measure=String
+String=[Measure1Close]
+RegExpSubstitute=1
+Substitute="(.*) \d{1,2}, \d{4} \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure1CloseMonth]
+Measure=String
+String=[Measure1CloseM]
+Substitute="January":"1","February":"2","March":"3","April":"4","May":"5","June":"6","July":"7","August":"8","September":"9","October":"10","November":"11","December":"12"
+DynamicVariables=1
+[Measure1CloseDay]
+Measure=String
+String=[Measure1Close]
+RegExpSubstitute=1
+Substitute=".* (\d{1,2}), \d{4} \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure1CloseHour]
+Measure=String
+String=[Measure1Close]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} (\d{1,2}):\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure1CloseMinute]
+Measure=String
+String=[Measure1Close]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} \d{1,2}:(\d{2}):\d{2} .*":"\1"
+DynamicVariables=1
+[Measure1CloseSecond]
+Measure=String
+String=[Measure1Close]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} \d{1,2}:\d{2}:(\d{2}) .*":"\1"
+DynamicVariables=1
+[Measure1Video]
+Measure=WebParser
+URL=[MeasureAPIParent1]
+StringIndex=4
+Substitute="\":""
+[Measure1Launchpad]
+Measure=WebParser
+URL=[MeasureAPIParent1]
+StringIndex=5
+[Measure1Company]
+Measure=WebParser
+URL=[MeasureAPIParent1]
+StringIndex=8
+[Measure1Abbrev]
+Measure=WebParser
+URL=[MeasureAPIParent1]
+StringIndex=9
+[Measure1Rocket]
+Measure=WebParser
+URL=[MeasureAPIParent1]
+StringIndex=6
+[Measure1Description]
+Measure=WebParser
+
+URL=[MeasureAPIParent1]
+StringIndex=7
+Substitute="":"No Description Available."
+;-------------------ParserChildren2---------------------
+[Measure2Mission]
+Measure=WebParser
+
+URL=[MeasureAPIParent2]
+StringIndex=1
+[Measure2Open]
+Measure=WebParser
+
+URL=[MeasureAPIParent2]
+StringIndex=2
+[Lua2Open]
+Measure=Script
+ScriptFile=#@#DateTime.lua
+Year=Measure2OpenYear
+Month=Measure2OpenMonth
+Day=Measure2OpenDay
+Hour=Measure2OpenHour
+Minute=Measure2OpenMinute
+Second=Measure2OpenSecond
+var=2Open
+; (?siU)<date>(.*) (\d{1,2}), (\d{4}) (\d{1,2}):(\d{2}):(\d{2}) .*</date>
+; 				December 26, 2017 19:00:00 UTC
+[Measure2OpenYear]
+Measure=String
+String=[Measure2Open]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, (\d{4}) \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure2OpenM]
+Measure=String
+String=[Measure2Open]
+RegExpSubstitute=1
+Substitute="(.*) \d{1,2}, \d{4} \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure2OpenMonth]
+Measure=String
+String=[Measure2OpenM]
+Substitute="January":"1","February":"2","March":"3","April":"4","May":"5","June":"6","July":"7","August":"8","September":"9","October":"10","November":"11","December":"12"
+DynamicVariables=1
+[Measure2OpenDay]
+Measure=String
+String=[Measure2Open]
+RegExpSubstitute=1
+Substitute=".* (\d{1,2}), \d{4} \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure2OpenHour]
+Measure=String
+String=[Measure2Open]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} (\d{1,2}):\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure2OpenMinute]
+Measure=String
+String=[Measure2Open]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} \d{1,2}:(\d{2}):\d{2} .*":"\1"
+DynamicVariables=1
+[Measure2OpenSecond]
+Measure=String
+String=[Measure2Open]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} \d{1,2}:\d{2}:(\d{2}) .*":"\1"
+DynamicVariables=1
+[Measure2Close]
+Measure=WebParser
+
+URL=[MeasureAPIParent2]
+StringIndex=3
+[Lua2Close]
+Measure=Script
+ScriptFile=#@#DateTime.lua
+Year=Measure2CloseYear
+Month=Measure2CloseMonth
+Day=Measure2CloseDay
+Hour=Measure2CloseHour
+Minute=Measure2CloseMinute
+Second=Measure2CloseSecond
+var=2Close
+; (?siU)<date>(.*) (\d{1,2}), (\d{4}) (\d{1,2}):(\d{2}):(\d{2}) .*</date>
+; 				December 26, 2017 19:00:00 UTC
+[Measure2CloseYear]
+Measure=String
+String=[Measure2Close]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, (\d{4}) \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure2CloseM]
+Measure=String
+String=[Measure2Close]
+RegExpSubstitute=1
+Substitute="(.*) \d{1,2}, \d{4} \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure2CloseMonth]
+Measure=String
+String=[Measure2CloseM]
+Substitute="January":"1","February":"2","March":"3","April":"4","May":"5","June":"6","July":"7","August":"8","September":"9","October":"10","November":"11","December":"12"
+DynamicVariables=1
+[Measure2CloseDay]
+Measure=String
+String=[Measure2Close]
+RegExpSubstitute=1
+Substitute=".* (\d{1,2}), \d{4} \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure2CloseHour]
+Measure=String
+String=[Measure2Close]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} (\d{1,2}):\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure2CloseMinute]
+Measure=String
+String=[Measure2Close]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} \d{1,2}:(\d{2}):\d{2} .*":"\1"
+DynamicVariables=1
+[Measure2CloseSecond]
+Measure=String
+String=[Measure2Close]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} \d{1,2}:\d{2}:(\d{2}) .*":"\1"
+DynamicVariables=1
+[Measure2Video]
+Measure=WebParser
+
+URL=[MeasureAPIParent2]
+StringIndex=4
+Substitute="\":""
+[Measure2Launchpad]
+Measure=WebParser
+
+URL=[MeasureAPIParent2]
+StringIndex=5
+[Measure2Company]
+Measure=WebParser
+
+URL=[MeasureAPIParent2]
+StringIndex=8
+[Measure2Abbrev]
+Measure=WebParser
+
+URL=[MeasureAPIParent2]
+StringIndex=9
+[Measure2Rocket]
+Measure=WebParser
+
+URL=[MeasureAPIParent2]
+StringIndex=6
+[Measure2Description]
+Measure=WebParser
+
+URL=[MeasureAPIParent2]
+StringIndex=7
+Substitute="":"No Description Available."
+;-------------------ParserChildren3---------------------
+[Measure3Mission]
+Measure=WebParser
+
+URL=[MeasureAPIParent3]
+StringIndex=1
+[Measure3Open]
+Measure=WebParser
+
+URL=[MeasureAPIParent3]
+StringIndex=2
+[Lua3Open]
+Measure=Script
+ScriptFile=#@#DateTime.lua
+Year=Measure3OpenYear
+Month=Measure3OpenMonth
+Day=Measure3OpenDay
+Hour=Measure3OpenHour
+Minute=Measure3OpenMinute
+Second=Measure3OpenSecond
+var=3Open
+; (?siU)<date>(.*) (\d{1,2}), (\d{4}) (\d{1,2}):(\d{2}):(\d{2}) .*</date>
+; 				December 26, 2017 19:00:00 UTC
+[Measure3OpenYear]
+Measure=String
+String=[Measure3Open]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, (\d{4}) \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure3OpenM]
+Measure=String
+String=[Measure3Open]
+RegExpSubstitute=1
+Substitute="(.*) \d{1,2}, \d{4} \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure3OpenMonth]
+Measure=String
+String=[Measure3OpenM]
+Substitute="January":"1","February":"2","March":"3","April":"4","May":"5","June":"6","July":"7","August":"8","September":"9","October":"10","November":"11","December":"12"
+DynamicVariables=1
+[Measure3OpenDay]
+Measure=String
+String=[Measure3Open]
+RegExpSubstitute=1
+Substitute=".* (\d{1,2}), \d{4} \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure3OpenHour]
+Measure=String
+String=[Measure3Open]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} (\d{1,2}):\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure3OpenMinute]
+Measure=String
+String=[Measure3Open]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} \d{1,2}:(\d{2}):\d{2} .*":"\1"
+DynamicVariables=1
+[Measure3OpenSecond]
+Measure=String
+String=[Measure3Open]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} \d{1,2}:\d{2}:(\d{2}) .*":"\1"
+DynamicVariables=1
+[Measure3Close]
+Measure=WebParser
+
+URL=[MeasureAPIParent3]
+StringIndex=3
+[Lua3Close]
+Measure=Script
+ScriptFile=#@#DateTime.lua
+Year=Measure3CloseYear
+Month=Measure3CloseMonth
+Day=Measure3CloseDay
+Hour=Measure3CloseHour
+Minute=Measure3CloseMinute
+Second=Measure3CloseSecond
+var=3Close
+; (?siU)<date>(.*) (\d{1,2}), (\d{4}) (\d{1,2}):(\d{2}):(\d{2}) .*</date>
+; 				December 26, 2017 19:00:00 UTC
+[Measure3CloseYear]
+Measure=String
+String=[Measure3Close]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, (\d{4}) \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure3CloseM]
+Measure=String
+String=[Measure3Close]
+RegExpSubstitute=1
+Substitute="(.*) \d{1,2}, \d{4} \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure3CloseMonth]
+Measure=String
+String=[Measure3CloseM]
+Substitute="January":"1","February":"2","March":"3","April":"4","May":"5","June":"6","July":"7","August":"8","September":"9","October":"10","November":"11","December":"12"
+DynamicVariables=1
+[Measure3CloseDay]
+Measure=String
+String=[Measure3Close]
+RegExpSubstitute=1
+Substitute=".* (\d{1,2}), \d{4} \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure3CloseHour]
+Measure=String
+String=[Measure3Close]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} (\d{1,2}):\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure3CloseMinute]
+Measure=String
+String=[Measure3Close]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} \d{1,2}:(\d{2}):\d{2} .*":"\1"
+DynamicVariables=1
+[Measure3CloseSecond]
+Measure=String
+String=[Measure3Close]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} \d{1,2}:\d{2}:(\d{2}) .*":"\1"
+DynamicVariables=1
+[Measure3Video]
+Measure=WebParser
+
+URL=[MeasureAPIParent3]
+StringIndex=4
+Substitute="\":""
+[Measure3Launchpad]
+Measure=WebParser
+
+URL=[MeasureAPIParent3]
+StringIndex=5
+[Measure3Company]
+Measure=WebParser
+
+URL=[MeasureAPIParent3]
+StringIndex=8
+[Measure3Abbrev]
+Measure=WebParser
+
+URL=[MeasureAPIParent3]
+StringIndex=9
+[Measure3Rocket]
+Measure=WebParser
+
+URL=[MeasureAPIParent3]
+StringIndex=6
+[Measure3Description]
+Measure=WebParser
+
+URL=[MeasureAPIParent3]
+StringIndex=7
+Substitute="":"No Description Available."
+;-------------------ParserChildren4---------------------
+[Measure4Mission]
+Measure=WebParser
+
+URL=[MeasureAPIParent4]
+StringIndex=1
+[Measure4Open]
+Measure=WebParser
+
+URL=[MeasureAPIParent4]
+StringIndex=2
+[Lua4Open]
+Measure=Script
+ScriptFile=#@#DateTime.lua
+Year=Measure4OpenYear
+Month=Measure4OpenMonth
+Day=Measure4OpenDay
+Hour=Measure4OpenHour
+Minute=Measure4OpenMinute
+Second=Measure4OpenSecond
+var=4Open
+; (?siU)<date>(.*) (\d{1,2}), (\d{4}) (\d{1,2}):(\d{2}):(\d{2}) .*</date>
+; 				December 26, 2017 19:00:00 UTC
+[Measure4OpenYear]
+Measure=String
+String=[Measure4Open]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, (\d{4}) \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure4OpenM]
+Measure=String
+String=[Measure4Open]
+RegExpSubstitute=1
+Substitute="(.*) \d{1,2}, \d{4} \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure4OpenMonth]
+Measure=String
+String=[Measure4OpenM]
+Substitute="January":"1","February":"2","March":"3","April":"4","May":"5","June":"6","July":"7","August":"8","September":"9","October":"10","November":"11","December":"12"
+DynamicVariables=1
+[Measure4OpenDay]
+Measure=String
+String=[Measure4Open]
+RegExpSubstitute=1
+Substitute=".* (\d{1,2}), \d{4} \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure4OpenHour]
+Measure=String
+String=[Measure4Open]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} (\d{1,2}):\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure4OpenMinute]
+Measure=String
+String=[Measure4Open]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} \d{1,2}:(\d{2}):\d{2} .*":"\1"
+DynamicVariables=1
+[Measure4OpenSecond]
+Measure=String
+String=[Measure4Open]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} \d{1,2}:\d{2}:(\d{2}) .*":"\1"
+DynamicVariables=1
+[Measure4Close]
+Measure=WebParser
+
+URL=[MeasureAPIParent4]
+StringIndex=3
+[Lua4Close]
+Measure=Script
+ScriptFile=#@#DateTime.lua
+Year=Measure4CloseYear
+Month=Measure4CloseMonth
+Day=Measure4CloseDay
+Hour=Measure4CloseHour
+Minute=Measure4CloseMinute
+Second=Measure4CloseSecond
+var=4Close
+; (?siU)<date>(.*) (\d{1,2}), (\d{4}) (\d{1,2}):(\d{2}):(\d{2}) .*</date>
+; 				December 26, 2017 19:00:00 UTC
+[Measure4CloseYear]
+Measure=String
+String=[Measure4Close]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, (\d{4}) \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure4CloseM]
+Measure=String
+String=[Measure4Close]
+RegExpSubstitute=1
+Substitute="(.*) \d{1,2}, \d{4} \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure4CloseMonth]
+Measure=String
+String=[Measure4CloseM]
+Substitute="January":"1","February":"2","March":"3","April":"4","May":"5","June":"6","July":"7","August":"8","September":"9","October":"10","November":"11","December":"12"
+DynamicVariables=1
+[Measure4CloseDay]
+Measure=String
+String=[Measure4Close]
+RegExpSubstitute=1
+Substitute=".* (\d{1,2}), \d{4} \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure4CloseHour]
+Measure=String
+String=[Measure4Close]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} (\d{1,2}):\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure4CloseMinute]
+Measure=String
+String=[Measure4Close]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} \d{1,2}:(\d{2}):\d{2} .*":"\1"
+DynamicVariables=1
+[Measure4CloseSecond]
+Measure=String
+String=[Measure4Close]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} \d{1,2}:\d{2}:(\d{2}) .*":"\1"
+DynamicVariables=1
+[Measure4Video]
+Measure=WebParser
+
+URL=[MeasureAPIParent4]
+StringIndex=4
+Substitute="\":""
+[Measure4Launchpad]
+Measure=WebParser
+
+URL=[MeasureAPIParent4]
+StringIndex=5
+[Measure4Company]
+Measure=WebParser
+
+URL=[MeasureAPIParent4]
+StringIndex=8
+[Measure4Abbrev]
+Measure=WebParser
+
+URL=[MeasureAPIParent4]
+StringIndex=9
+[Measure4Rocket]
+Measure=WebParser
+
+URL=[MeasureAPIParent4]
+StringIndex=6
+[Measure4Description]
+Measure=WebParser
+
+URL=[MeasureAPIParent4]
+StringIndex=7
+Substitute="":"No Description Available."
+;-------------------ParserChildren5---------------------
+[Measure5Mission]
+Measure=WebParser
+
+URL=[MeasureAPIParent5]
+StringIndex=1
+[Measure5Open]
+Measure=WebParser
+
+URL=[MeasureAPIParent5]
+StringIndex=2
+[Lua5Open]
+Measure=Script
+ScriptFile=#@#DateTime.lua
+Year=Measure5OpenYear
+Month=Measure5OpenMonth
+Day=Measure5OpenDay
+Hour=Measure5OpenHour
+Minute=Measure5OpenMinute
+Second=Measure5OpenSecond
+var=5Open
+; (?siU)<date>(.*) (\d{1,2}), (\d{4}) (\d{1,2}):(\d{2}):(\d{2}) .*</date>
+; 				December 26, 2017 19:00:00 UTC
+[Measure5OpenYear]
+Measure=String
+String=[Measure5Open]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, (\d{4}) \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure5OpenM]
+Measure=String
+String=[Measure5Open]
+RegExpSubstitute=1
+Substitute="(.*) \d{1,2}, \d{4} \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure5OpenMonth]
+Measure=String
+String=[Measure5OpenM]
+Substitute="January":"1","February":"2","March":"3","April":"4","May":"5","June":"6","July":"7","August":"8","September":"9","October":"10","November":"11","December":"12"
+DynamicVariables=1
+[Measure5OpenDay]
+Measure=String
+String=[Measure5Open]
+RegExpSubstitute=1
+Substitute=".* (\d{1,2}), \d{4} \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure5OpenHour]
+Measure=String
+String=[Measure5Open]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} (\d{1,2}):\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure5OpenMinute]
+Measure=String
+String=[Measure5Open]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} \d{1,2}:(\d{2}):\d{2} .*":"\1"
+DynamicVariables=1
+[Measure5OpenSecond]
+Measure=String
+String=[Measure5Open]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} \d{1,2}:\d{2}:(\d{2}) .*":"\1"
+DynamicVariables=1
+[Measure5Close]
+Measure=WebParser
+
+URL=[MeasureAPIParent5]
+StringIndex=3
+[Lua5Close]
+Measure=Script
+ScriptFile=#@#DateTime.lua
+Year=Measure5CloseYear
+Month=Measure5CloseMonth
+Day=Measure5CloseDay
+Hour=Measure5CloseHour
+Minute=Measure5CloseMinute
+Second=Measure5CloseSecond
+var=5Close
+; (?siU)<date>(.*) (\d{1,2}), (\d{4}) (\d{1,2}):(\d{2}):(\d{2}) .*</date>
+; 				December 26, 2017 19:00:00 UTC
+[Measure5CloseYear]
+Measure=String
+String=[Measure5Close]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, (\d{4}) \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure5CloseM]
+Measure=String
+String=[Measure5Close]
+RegExpSubstitute=1
+Substitute="(.*) \d{1,2}, \d{4} \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure5CloseMonth]
+Measure=String
+String=[Measure5CloseM]
+Substitute="January":"1","February":"2","March":"3","April":"4","May":"5","June":"6","July":"7","August":"8","September":"9","October":"10","November":"11","December":"12"
+DynamicVariables=1
+[Measure5CloseDay]
+Measure=String
+String=[Measure5Close]
+RegExpSubstitute=1
+Substitute=".* (\d{1,2}), \d{4} \d{1,2}:\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure5CloseHour]
+Measure=String
+String=[Measure5Close]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} (\d{1,2}):\d{2}:\d{2} .*":"\1"
+DynamicVariables=1
+[Measure5CloseMinute]
+Measure=String
+String=[Measure5Close]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} \d{1,2}:(\d{2}):\d{2} .*":"\1"
+DynamicVariables=1
+[Measure5CloseSecond]
+Measure=String
+String=[Measure5Close]
+RegExpSubstitute=1
+Substitute=".* \d{1,2}, \d{4} \d{1,2}:\d{2}:(\d{2}) .*":"\1"
+DynamicVariables=1
+[Measure5Video]
+Measure=WebParser
+
+URL=[MeasureAPIParent5]
+StringIndex=4
+Substitute="\":""
+[Measure5Launchpad]
+Measure=WebParser
+
+URL=[MeasureAPIParent5]
+StringIndex=5
+[Measure5Company]
+Measure=WebParser
+
+URL=[MeasureAPIParent5]
+StringIndex=8
+[Measure5Abbrev]
+Measure=WebParser
+
+URL=[MeasureAPIParent5]
+StringIndex=9
+[Measure5Rocket]
+Measure=WebParser
+
+URL=[MeasureAPIParent5]
+StringIndex=6
+[Measure5Description]
+Measure=WebParser
+
+URL=[MeasureAPIParent5]
+StringIndex=7
+Substitute="":"No Description Available."
+; -------------------------------DISPLAY METERS------------------------
+;-------------------------1------------------------------------------
+[Meter1Line]
+Meter=Shape
+Shape=Line 15,#EntryH#/2,#EntryW#+5,#EntryH#/2 | Extend MyModifiers1
+MyModifiers1=Fill Color 255,255,255,255 | StrokeWidth 1 | Stroke Color 255,255,255,255
+UpdateDivider=50
+[Lua1Mission]
+Measure=Script
+ ScriptFile=#@#Marquee.lua
+ MeasureName=Measure1Mission
+ Delimiter=" | "
+ Width=33
+ 
+[Meter1Mission]
+Meter=String
+MeasureName=Lua1Mission
+X=325
+Y=5
+W=300
+H=20
+FontFace=#TextFont#
+FontSize=#HeaderFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+[Meter1Open]
+Meter=String
+X=315
+Y=25
+W=300
+H=20
+FontFace=#NumeralFont#
+FontSize=#DateFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+Text=Window Open: #1Open#
+DynamicVariables=1
+[Meter1Close]
+Meter=String
+X=315
+Y=40
+W=300
+H=20
+FontFace=#NumeralFont#
+FontSize=#DateFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+Text=Window Close: #1Close#
+DynamicVariables=1
+[Lua1Video]
+Measure=Script
+ScriptFile=#@#VideoIcon.lua
+CurrentMeasure=Measure1Video
+[Meter1Video]
+Meter=Image
+MeasureName=Lua1Video
+X=20
+Y=30
+W=42
+H=30
+ImageName=#@#Images\video%1.png
+LeftMouseDownAction=Measure1Video
+PreserveAspectRatio=1
+[Meter1Company]
+Meter=String
+MeasureName=Measure1Company
+MeasureName2=Measure1Abbrev
+X=325
+Y=70
+W=300
+H=20
+FontFace=#TextFontLight#
+FontSize=#CompanyFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+Text="LSP: %1 (%2)"
+ClipString=2
+
+[Meter1Rocket]
+Meter=String
+MeasureName=Lua1Rocket
+X=325
+Y=90
+W=310
+H=20
+FontFace=#TextFontLight#
+FontSize=#RocketFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+[Lua1Rocket]
+ Measure=Script
+ ScriptFile=#@#Marquee.lua
+ MeasureName=Measure1Rocket|Measure1Launchpad
+ Delimiter=" | "
+ Width=45
+[Meter1Description]
+Meter=String
+MeasureName=Measure1Description
+X=340
+Y=5
+W=315
+H=115
+FontFace=#TextFontLight#
+FontSize=#DescFontSize#
+FontColor=245,255,255,255
+StringAlign=Left
+AntiAlias=1
+ClipString=2
+;-------------------------2------------------------------------------
+[Lua2Mission]
+Measure=Script
+ ScriptFile=#@#Marquee.lua
+ MeasureName=Measure2Mission
+ Delimiter=" | "
+ Width=33
+ 
+[Meter2Line]
+Meter=Shape
+Shape=Line 15,(#EntryY#) + #LineYSub#,#EntryW#+5,(#EntryY#) + #LineYSub# | Extend MyModifiers1
+MyModifiers1=Fill Color 255,255,255,255 | StrokeWidth 1 | Stroke Color 255,255,255,255
+UpdateDivider=50
+[Meter2Mission]
+Meter=String
+MeasureName=Lua2Mission
+X=325
+Y=140
+W=300
+H=20
+FontFace=#TextFont#
+FontSize=#HeaderFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+[Meter2Open]
+Meter=String
+X=315
+Y=160
+W=300
+H=20
+FontFace=#NumeralFont#
+FontSize=#DateFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+Text=Window Open: #2Open#
+DynamicVariables=1
+[Meter2Close]
+Meter=String
+X=315
+Y=175
+W=300
+H=20
+FontFace=#NumeralFont#
+FontSize=#DateFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+Text=Window Close: #2Close#
+DynamicVariables=1
+[Lua2Video]
+Measure=Script
+ScriptFile=#@#VideoIcon.lua
+CurrentMeasure=Measure2Video
+[Meter2Video]
+Meter=Image
+MeasureName=Lua2Video
+X=20
+Y=165
+W=42
+H=30
+ImageName=#@#Images\video%1.png
+LeftMouseDownAction=Measure2Video
+PreserveAspectRatio=1
+[Meter2Company]
+Meter=String
+MeasureName=Measure2Company
+MeasureName2=Measure2Abbrev
+X=325
+Y=205
+W=300
+H=20
+FontFace=#TextFontLight#
+FontSize=#CompanyFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+Text="LSP: %1 (%2)"
+ClipString=2
+[Meter2Rocket]
+Meter=String
+MeasureName=Lua2Rocket
+X=325
+Y=225
+W=310
+H=20
+FontFace=#TextFontLight#
+FontSize=#RocketFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+[Lua2Rocket]
+ Measure=Script
+ ScriptFile=#@#Marquee.lua
+ MeasureName=Measure2Rocket|Measure2Launchpad
+ Delimiter=" | "
+ Width=45
+[Meter2Description]
+Meter=String
+MeasureName=Measure2Description
+X=340
+Y=140
+W=315
+H=115
+FontFace=#TextFontLight#
+FontSize=#DescFontSize#
+FontColor=245,255,255,255
+StringAlign=Left
+AntiAlias=1
+ClipString=2
+;-------------------------3------------------------------------------
+[Meter3Line]
+Meter=Shape
+Shape=Line 15,(#EntryY#) * 2 + #LineYSub#,#EntryW#+5,(#EntryY#) * 2 + #LineYSub# | Extend MyModifiers1
+MyModifiers1=Fill Color 255,255,255,255 | StrokeWidth 1 | Stroke Color 255,255,255,255
+UpdateDivider=50
+[Lua3Mission]
+Measure=Script
+ ScriptFile=#@#Marquee.lua
+ MeasureName=Measure3Mission
+ Delimiter=""
+ Width=33
+[Meter3Mission]
+Meter=String
+MeasureName=Lua3Mission
+X=325
+Y=275
+W=300
+H=20
+FontFace=#TextFont#
+FontSize=#HeaderFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+[Meter3Open]
+Meter=String
+X=315
+Y=295
+W=300
+H=20
+FontFace=#NumeralFont#
+FontSize=#DateFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+Text=Window Open: #3Open#
+DynamicVariables=1
+[Meter3Close]
+Meter=String
+X=315
+Y=310
+W=300
+H=20
+FontFace=#NumeralFont#
+FontSize=#DateFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+Text=Window Close: #3Close#
+DynamicVariables=1
+[Lua3Video]
+Measure=Script
+ScriptFile=#@#VideoIcon.lua
+CurrentMeasure=Measure3Video
+[Meter3Video]
+Meter=Image
+MeasureName=Lua3Video
+X=20
+Y=300
+W=42
+H=30
+ImageName=#@#Images\video%1.png
+LeftMouseDownAction=Measure3Video
+PreserveAspectRatio=1
+[Meter3Company]
+Meter=String
+MeasureName=Measure3Company
+MeasureName2=Measure3Abbrev
+X=325
+Y=340
+W=300
+H=20
+FontFace=#TextFontLight#
+FontSize=#CompanyFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+Text="LSP: %1 (%2)"
+ClipString=2
+[Meter3Rocket]
+Meter=String
+MeasureName=Lua3Rocket
+X=325
+Y=360
+W=310
+H=20
+FontFace=#TextFontLight#
+FontSize=#RocketFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+[Lua3Rocket]
+ Measure=Script
+ ScriptFile=#@#Marquee.lua
+ MeasureName=Measure3Rocket|Measure3Launchpad
+ Delimiter=" | "
+ Width=45
+[Meter3Description]
+Meter=String
+MeasureName=Measure3Description
+X=340
+Y=275
+W=315
+H=115
+FontFace=#TextFontLight#
+FontSize=#DescFontSize#
+FontColor=245,255,255,255
+StringAlign=Left
+AntiAlias=1
+ClipString=2
+;-------------------------4------------------------------------------
+[Meter4Line]
+Meter=Shape
+Shape=Line 15,(#EntryY#) * 3 + #LineYSub#,#EntryW#+5,(#EntryY#) * 3 + #LineYSub# | Extend MyModifiers1
+MyModifiers1=Fill Color 255,255,255,255 | StrokeWidth 1 | Stroke Color 255,255,255,255
+UpdateDivider=50
+[Lua4Mission]
+Measure=Script
+ ScriptFile=#@#Marquee.lua
+ MeasureName=Measure4Mission
+ Delimiter=""
+ Width=33
+[Meter4Mission]
+Meter=String
+MeasureName=Lua4Mission
+X=325
+Y=410
+W=300
+H=20
+FontFace=#TextFont#
+FontSize=#HeaderFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+[Meter4Open]
+Meter=String
+X=315
+Y=430
+W=300
+H=20
+FontFace=#NumeralFont#
+FontSize=#DateFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+Text=Window Open: #4Open#
+DynamicVariables=1
+[Meter4Close]
+Meter=String
+X=315
+Y=445
+W=300
+H=20
+FontFace=#NumeralFont#
+FontSize=#DateFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+Text=Window Close: #4Close#
+DynamicVariables=1
+[Lua4Video]
+Measure=Script
+ScriptFile=#@#VideoIcon.lua
+CurrentMeasure=Measure4Video
+[Meter4Video]
+Meter=Image
+MeasureName=Lua4Video
+X=20
+Y=435
+W=42
+H=30
+ImageName=#@#Images\video%1.png
+LeftMouseDownAction=Measure4Video
+PreserveAspectRatio=1
+[Meter4Company]
+Meter=String
+MeasureName=Measure4Company
+MeasureName2=Measure4Abbrev
+X=325
+Y=475
+W=300
+H=20
+FontFace=#TextFontLight#
+FontSize=#CompanyFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+Text="LSP: %1 (%2)"
+ClipString=2
+[Meter4Rocket]
+Meter=String
+MeasureName=Lua4Rocket
+X=325
+Y=495
+W=310
+H=20
+FontFace=#TextFontLight#
+FontSize=#RocketFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+[Lua4Rocket]
+ Measure=Script
+ ScriptFile=#@#Marquee.lua
+ MeasureName=Measure4Rocket|Measure4Launchpad
+ Delimiter=" | "
+ Width=45
+[Meter4Description]
+Meter=String
+MeasureName=Measure4Description
+X=340
+Y=410
+W=315
+H=115
+FontFace=#TextFontLight#
+FontSize=#DescFontSize#
+FontColor=245,255,255,255
+StringAlign=Left
+AntiAlias=1
+ClipString=2
+
+;-------------------------5------------------------------------------
+[Meter5Line]
+Meter=Shape
+Shape=Line 15,(#EntryY#) * 4 + #LineYSub#,#EntryW#+5,(#EntryY#) * 4 + #LineYSub# | Extend MyModifiers1
+MyModifiers1=Fill Color 255,255,255,255 | StrokeWidth 1 | Stroke Color 255,255,255,255
+UpdateDivider=50
+[Lua5Mission]
+Measure=Script
+ ScriptFile=#@#Marquee.lua
+ MeasureName=Measure5Mission
+ Delimiter=""
+ Width=33
+[Meter5Mission]
+Meter=String
+MeasureName=Lua5Mission
+X=325
+Y=545
+W=300
+H=20
+FontFace=#TextFont#
+FontSize=#HeaderFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+[Meter5Open]
+Meter=String
+X=315
+Y=565
+W=300
+H=20
+FontFace=#NumeralFont#
+FontSize=#DateFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+Text=Window Open: #5Open#
+DynamicVariables=1
+[Meter5Close]
+Meter=String
+X=315
+Y=580
+W=300
+H=20
+FontFace=#NumeralFont#
+FontSize=#DateFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+Text=Window Close: #5Close#
+DynamicVariables=1
+[Lua5Video]
+Measure=Script
+ScriptFile=#@#VideoIcon.lua
+CurrentMeasure=Measure5Video
+[Meter5Video]
+Meter=Image
+MeasureName=Lua5Video
+X=20*
+Y=570
+W=42
+H=30
+ImageName=#@#Images\video%1.png
+LeftMouseDownAction=Measure5Video
+PreserveAspectRatio=1
+[Meter5Company]
+Meter=String
+MeasureName=Measure5Company
+MeasureName2=Measure5Abbrev
+X=325
+Y=610
+W=300
+H=20
+FontFace=#TextFontLight#
+FontSize=#CompanyFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+Text="LSP: %1 (%2)"
+ClipString=2
+[Meter5Rocket]
+Meter=String
+MeasureName=Lua5Rocket
+X=325
+Y=630
+W=310
+H=20
+FontFace=#TextFontLight#
+FontSize=#RocketFontSize#
+FontColor=245,255,255,255
+StringAlign=Right
+AntiAlias=1
+[Lua5Rocket]
+ Measure=Script
+ ScriptFile=#@#Marquee.lua
+ MeasureName=Measure5Rocket|Measure5Launchpad
+ Delimiter=" | "
+ Width=45
+[Meter5Description]
+Meter=String
+MeasureName=Measure5Description
+X=340
+Y=545
+W=315
+H=115
+FontFace=#TextFontLight#
+FontSize=#DescFontSize#
+FontColor=245,255,255,255
+StringAlign=Left
+AntiAlias=1
+ClipString=2
+
+
+
+[MeterUpdateAlert]
+Meter=Image
+X=15
+Y=5
+MeasureName=MeasureAlertFlasher
+MeasureName2=MeasureLatestVersion
+ImageName=#@#\Images\Alert%1.png
+ToolTipText="New Version Available (%2). Click here to download it."
+Hidden=1
+LeftMouseUpAction="#DeviantARTpage#"
+
+
+
+
+
+
+[Variables]
+;original colors 
+;Color1=126,154,250,225
+;Color2=255,160,32,225
+; Color1 is the left
+; Color2 is the right
+; 	A transparency value of 175-225 is recommended
+
+Color1=119,136,153,210
+Color2=47,65,65,175
+
+TextFont=Oxygen
+TextFontLight=Oxygen Light
+NumeralFont=Source Sans Pro ExtraLight
+
+;Resizing
+;When resizing, maintaining an aspect ratio of around 129:133 will yield the best results
+;	Sizes below 387x399 are not recommended.
+;	When scaling up, remember display resolution constraints. Otherwise unlimited.
+;	The original recommended size is 645x665
+W=645
+H=665
+
+; Warning: Use the resize options FIRST, then adjust font size
+; If adjusting fonts, also remember to adjust font size if necessary!
+HeaderFontSize=14
+DateFontSize=12
+CompanyFontSize=11
+RocketFontSize=10
+DescFontSize=9
